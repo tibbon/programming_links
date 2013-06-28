@@ -6,6 +6,7 @@
 * [StatD and Graphite monitoring](http://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/)
 * [Google Reader backup utilities](https://github.com/mihaip/readerisdead#feed_archive)
 * [Refactoring Github's interface](http://ianstormtaylor.com/refactoring-githubs-design/)
+* [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
 
 ## Already Read
 
