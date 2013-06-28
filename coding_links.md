@@ -4,6 +4,7 @@
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
 * [StatD and Graphite monitoring](http://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/)
+* [Google Reader backup utilities](https://github.com/mihaip/readerisdead#feed_archive)
 
 ## Already Read
 
