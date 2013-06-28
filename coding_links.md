@@ -3,6 +3,7 @@
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
+* [StatD and Graphite monitoring](http://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/)
 
 ## Already Read
 
