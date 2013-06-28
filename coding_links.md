@@ -2,8 +2,9 @@
 
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
+* [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
 
-## Read
+## Already Read
 
 * [Heroku Fork release](https://blog.heroku.com/archives/2013/6/27/heroku-fork)
 * [Sublime 3 beta](http://www.sublimetext.com/blog/articles/sublime-text-3-public-beta)
