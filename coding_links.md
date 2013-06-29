@@ -9,6 +9,7 @@
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
 * [From the makers of RapGenius- PoetryGenius](http://poetry.rapgenius.com/)
 * [Minimalist text game](http://adarkroom.doublespeakgames.com/)
+* [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
 
 ## Already Read
 
