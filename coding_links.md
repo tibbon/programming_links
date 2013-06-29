@@ -10,7 +10,7 @@
 * [From the makers of RapGenius- PoetryGenius](http://poetry.rapgenius.com/)
 * [Minimalist text game](http://adarkroom.doublespeakgames.com/)
 * [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
-* [Inverse Square roots made faster](http://www.beyond3d.com/content/articles/8/)
+* [Inverse Square roots made faster](http://www.beyond3d.com/content/articles/8/), and [more on it from the wikipedia](http://en.wikipedia.org/wiki/Fast_inverse_square_root)
 
 ## Already Read
 
