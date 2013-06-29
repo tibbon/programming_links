@@ -8,6 +8,7 @@
 * [Refactoring Github's interface](http://ianstormtaylor.com/refactoring-githubs-design/)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
 * [From the makers of RapGenius- PoetryGenius](http://poetry.rapgenius.com/)
+* [Minimalist text game](http://adarkroom.doublespeakgames.com/)
 
 ## Already Read
 
