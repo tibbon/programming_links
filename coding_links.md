@@ -12,7 +12,7 @@
 * [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
 * [Inverse Square roots made faster](http://www.beyond3d.com/content/articles/8/), and [more on it from the wikipedia](http://en.wikipedia.org/wiki/Fast_inverse_square_root)
 * [Kite - Rails Deployment in seconds](http://www.runkite.com/)
-
+* [Bitcoin currency manipulation](http://blog.p2pfoundation.net/how-the-bitcoin-1-manipulate-the-currency-deceive-its-user-community-and-make-its-future-uncertain/2013/06/30)
 
 ## Already Read
 
