@@ -16,6 +16,7 @@
 * [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
 * [Learn Java in x Minutes](http://learnxinyminutes.com/docs/java/)
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
+* [Building a HUD for your car](http://bwongtech.blogspot.com/2013/02/how-to-build-hud-for-your-car.html?m=1)
 
 ## Already Read
 
