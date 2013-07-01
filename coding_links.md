@@ -15,6 +15,7 @@
 * [Bitcoin currency manipulation](http://blog.p2pfoundation.net/how-the-bitcoin-1-manipulate-the-currency-deceive-its-user-community-and-make-its-future-uncertain/2013/06/30)
 * [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
 * [Learn Java in x Minutes](http://learnxinyminutes.com/docs/java/)
+* [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
 
 ## Already Read
 
