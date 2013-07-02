@@ -19,6 +19,7 @@
 * [Building a HUD for your car](http://bwongtech.blogspot.com/2013/02/how-to-build-hud-for-your-car.html?m=1)
 * [Deploying with Vagrant and Puppet](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/)
 * [.NYC domain names](http://www.mydotnyc.com/)
+* [Restore the 4th Protests](http://www.restorethefourth.net/)
 
 ## Already Read
 
