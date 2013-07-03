@@ -20,6 +20,7 @@
 * [Deploying with Vagrant and Puppet](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/)
 * [.NYC domain names](http://www.mydotnyc.com/)
 * [Restore the 4th Protests](http://www.restorethefourth.net/)
+* [Benchmarking MVC frameworks v6](http://www.techempower.com/blog/2013/07/02/frameworks-round-6/)
 
 ## Already Read
 
