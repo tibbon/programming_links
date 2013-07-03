@@ -21,6 +21,7 @@
 * [.NYC domain names](http://www.mydotnyc.com/)
 * [Restore the 4th Protests](http://www.restorethefourth.net/)
 * [Benchmarking MVC frameworks v6](http://www.techempower.com/blog/2013/07/02/frameworks-round-6/)
+* [Dwarf Fortress in 2013 and the 30 year plan](http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1)
 
 ## Already Read
 
