@@ -25,6 +25,7 @@
 * [What does Ruby have that Python doesnt](http://stackoverflow.com/questions/1113611/what-does-ruby-have-that-python-doesnt-and-vice-versa?rq=1)
 * [Node.js MVC Framework](http://sailsjs.org/)
 * [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
+* [Puma vs Passenger](https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger)
 
 ## Already Read
 
