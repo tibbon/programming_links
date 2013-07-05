@@ -26,6 +26,9 @@
 * [Node.js MVC Framework](http://sailsjs.org/)
 * [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
 * [Puma vs Passenger](https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger)
+* [Project Meshnet](http://projectmeshnet.org/)
+* [Web as you know is Dying](http://evbogue.com/)
+* [cjdns](https://github.com/cjdelisle/cjdns)
 
 ## Already Read
 
