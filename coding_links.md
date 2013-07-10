@@ -31,6 +31,7 @@
 * [cjdns](https://github.com/cjdelisle/cjdns)
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Shit for making websites](http://shitformakingwebsites.com/)
+* [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
 
 ## Already Read
 
