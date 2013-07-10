@@ -30,6 +30,7 @@
 * [Web as you know is Dying](http://evbogue.com/)
 * [cjdns](https://github.com/cjdelisle/cjdns)
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
+* [Shit for making websites](http://shitformakingwebsites.com/)
 
 ## Already Read
 
