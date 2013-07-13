@@ -32,6 +32,7 @@
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
+* [HTTPS sniffing with Amazon Chrome Plugin](http://blog.kotowicz.net/2013/07/jealous-of-prism-use-amazon-1-button.html)
 
 ## Already Read
 
