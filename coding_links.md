@@ -33,6 +33,7 @@
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
 * [HTTPS sniffing with Amazon Chrome Plugin](http://blog.kotowicz.net/2013/07/jealous-of-prism-use-amazon-1-button.html)
+* [2fa and sms](http://dcid.me/notes/2013-apr-19.html)
 
 ## Already Read
 
