@@ -37,6 +37,7 @@
 * [Too DRY. The Grep test](http://jamie-wong.com//2013/07/12/grep-test/#comment-960513785)
 * [Why 1 && 2 == 2](http://blog.chewxy.com/2013/07/19/why-1-2-2/)
 * [Unhappy Truckers and other](http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems)
+* [Divshot for Bootstrap](http://blog.divshot.com/post/55791825061/divshot-1-0-visual-front-end-development-for-bootstrap)
 
 ## Already Read
 
