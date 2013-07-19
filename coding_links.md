@@ -38,6 +38,7 @@
 * [Why 1 && 2 == 2](http://blog.chewxy.com/2013/07/19/why-1-2-2/)
 * [Unhappy Truckers and other](http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems)
 * [Divshot for Bootstrap](http://blog.divshot.com/post/55791825061/divshot-1-0-visual-front-end-development-for-bootstrap)
+* [Kinect Sign Language](http://blogs.technet.com/b/inside_microsoft_research/archive/2013/07/16/digital-assistance-for-sign-language-users.aspx)
 
 ## Already Read
 
