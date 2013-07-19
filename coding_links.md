@@ -35,6 +35,7 @@
 * [HTTPS sniffing with Amazon Chrome Plugin](http://blog.kotowicz.net/2013/07/jealous-of-prism-use-amazon-1-button.html)
 * [2fa and sms](http://dcid.me/notes/2013-apr-19.html)
 * [Too DRY. The Grep test](http://jamie-wong.com//2013/07/12/grep-test/#comment-960513785)
+* [Why 1 && 2 == 2](http://blog.chewxy.com/2013/07/19/why-1-2-2/)
 
 ## Already Read
 
