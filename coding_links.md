@@ -47,6 +47,7 @@
 * [rPi Dropbox torrentsync](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
 * [Regex Quiz](http://regex101.com/)
 * [CSS Zen Garden](http://www.csszengarden.com/)
+* [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
 
 ## Already Read
 
