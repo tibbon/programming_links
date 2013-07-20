@@ -39,6 +39,12 @@
 * [Unhappy Truckers and other](http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems)
 * [Divshot for Bootstrap](http://blog.divshot.com/post/55791825061/divshot-1-0-visual-front-end-development-for-bootstrap)
 * [Kinect Sign Language](http://blogs.technet.com/b/inside_microsoft_research/archive/2013/07/16/digital-assistance-for-sign-language-users.aspx)
+* [How Lingustics Outted JK Rowling](http://phenomena.nationalgeographic.com/2013/07/19/how-forensic-linguistics-outed-j-k-rowling-not-to-mention-james-madison-barack-obama-and-the-rest-of-us/)
+* [Build your own private encrypted dropbox](https://gist.github.com/Tho85/6045429)
+* [DNS the good parts](http://www.petekeen.net/dns-the-good-parts)
+* [Forbidden Island](http://www.neatorama.com/2013/07/08/The-Forbidden-Island)
+* [When the NSA shows up at your startup](http://www.readability.com/read?url=http%3A//www.buzzfeed.com/justinesharrock/what-is-that-box-when-the-nsa-shows-up-at-your-internet-comp)
+* [rPi Dropbox torrentsync](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
 
 ## Already Read
 
