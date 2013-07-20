@@ -45,6 +45,7 @@
 * [Forbidden Island](http://www.neatorama.com/2013/07/08/The-Forbidden-Island)
 * [When the NSA shows up at your startup](http://www.readability.com/read?url=http%3A//www.buzzfeed.com/justinesharrock/what-is-that-box-when-the-nsa-shows-up-at-your-internet-comp)
 * [rPi Dropbox torrentsync](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
+* [Regex Quiz](http://regex101.com/)
 
 ## Already Read
 
