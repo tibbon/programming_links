@@ -48,6 +48,7 @@
 * [Regex Quiz](http://regex101.com/)
 * [CSS Zen Garden](http://www.csszengarden.com/)
 * [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
+* [Five Database planning mistakes](http://thomaslarock.com/2012/01/do-you-make-these-5-database-design-mistakes/)
 
 ## Already Read
 
