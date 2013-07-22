@@ -50,6 +50,7 @@
 * [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
 * [Five Database planning mistakes](http://thomaslarock.com/2012/01/do-you-make-these-5-database-design-mistakes/)
 * [Reactive Ruby Extensions](http://rxrb.codeplex.com/)
+* [DarkJPEG](http://n0where.net/darkjpeg/)
 
 ## Already Read
 
