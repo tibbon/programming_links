@@ -51,6 +51,7 @@
 * [Five Database planning mistakes](http://thomaslarock.com/2012/01/do-you-make-these-5-database-design-mistakes/)
 * [Reactive Ruby Extensions](http://rxrb.codeplex.com/)
 * [DarkJPEG](http://n0where.net/darkjpeg/)
+* [Upton- web scraping framework](http://www.propublica.org/nerds/item/upton-a-web-scraping-framework)
 
 ## Already Read
 
