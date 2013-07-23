@@ -32,6 +32,7 @@
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
+* [Cost of a bad hire](http://www.linkedin.com/today/post/article/20130716151946-2967511-the-high-costs-of-a-bad-hire-and-how-to-avoid-them)
 * [HTTPS sniffing with Amazon Chrome Plugin](http://blog.kotowicz.net/2013/07/jealous-of-prism-use-amazon-1-button.html)
 * [2fa and sms](http://dcid.me/notes/2013-apr-19.html)
 * [Too DRY. The Grep test](http://jamie-wong.com//2013/07/12/grep-test/#comment-960513785)
