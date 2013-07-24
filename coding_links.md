@@ -54,6 +54,7 @@
 * [DarkJPEG](http://n0where.net/darkjpeg/)
 * [Upton- web scraping framework](http://www.propublica.org/nerds/item/upton-a-web-scraping-framework)
 * [Google Analytics to Piwik](http://dicasdolampada.wordpress.com/2013/07/22/goodbye-google-analytics-hello-piwik/)
+* [Little Lisp Interepter in JS](https://www.hackerschool.com/blog/21-little-lisp-interpreter)
 
 ## Already Read
 
