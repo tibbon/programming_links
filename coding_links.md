@@ -55,6 +55,10 @@
 * [Upton- web scraping framework](http://www.propublica.org/nerds/item/upton-a-web-scraping-framework)
 * [Google Analytics to Piwik](http://dicasdolampada.wordpress.com/2013/07/22/goodbye-google-analytics-hello-piwik/)
 * [Little Lisp Interepter in JS](https://www.hackerschool.com/blog/21-little-lisp-interpreter)
+* [180 Sites in 180 Days](http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in-180)
+* [Ractive.js](http://www.ractivejs.org/)
+* [Essential Math for Game Programmers](http://www.essentialmath.com/tutorial.htm)
+* [Practical Typography](http://practicaltypography.com/)
 
 ## Already Read
 
