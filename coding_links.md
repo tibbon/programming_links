@@ -59,6 +59,7 @@
 * [Ractive.js](http://www.ractivejs.org/)
 * [Essential Math for Game Programmers](http://www.essentialmath.com/tutorial.htm)
 * [Practical Typography](http://practicaltypography.com/)
+* [Thinking in Angular from jQuery](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 
 ## Already Read
 
