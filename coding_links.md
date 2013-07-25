@@ -1,5 +1,6 @@
 ## To Read
 
+* [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
 * [Automatic SIMD from Haskell](https://news.ycombinator.com/item?id=6100967)
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
