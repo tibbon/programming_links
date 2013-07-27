@@ -1,5 +1,7 @@
 ## To Read
 
+* [Free Email Validation](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/)
+* [All the queing libraries in one place](http://queues.io/)
 * [IBM Ponder This](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/pages/index.html)
 * [Big O as explained by self taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 * [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
