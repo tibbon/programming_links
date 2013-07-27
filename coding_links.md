@@ -1,5 +1,7 @@
 ## To Read
 
+* [IBM Ponder This](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/pages/index.html)
+* [Big O as explained by self taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 * [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
 * [Automatic SIMD from Haskell](https://news.ycombinator.com/item?id=6100967)
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
