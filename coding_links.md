@@ -1,5 +1,7 @@
 ## To Read
 
+* [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
+* [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 * [Free Email Validation](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/)
 * [All the queing libraries in one place](http://queues.io/)
 * [IBM Ponder This](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/pages/index.html)
