@@ -1,5 +1,7 @@
 ## To Read
 
+* [Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
+* [Game Boy Programming Manual](http://www.scribd.com/doc/39999184/GameBoy-Programming-Manual)
 * [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
 * [1m tps on $5k hardware](http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html)
 * [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
