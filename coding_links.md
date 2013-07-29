@@ -1,5 +1,6 @@
 ## To Read
 
+* [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
 * [1m tps on $5k hardware](http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html)
 * [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
 * [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
