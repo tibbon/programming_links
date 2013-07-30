@@ -1,5 +1,6 @@
 ## To Read
 
+* [Advanced CC Fraud](http://www.newstatesman.com/voices/2013/07/why-i-willingly-handed-over-my-credit-card-and-pin-fraudster)
 * [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
 * [Tor - Secure messaging](http://tox.im/)
 * [Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
