@@ -1,5 +1,7 @@
 ## To Read
 
+* [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
+* [Tor - Secure messaging](http://tox.im/)
 * [Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
 * [Game Boy Programming Manual](http://www.scribd.com/doc/39999184/GameBoy-Programming-Manual)
 * [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
