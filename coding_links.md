@@ -1,5 +1,6 @@
 ## To Read
 
+* [NSA collects everything](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 * [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/)
 * [On SQL Injection](http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html#)
 * [Advanced CC Fraud](http://www.newstatesman.com/voices/2013/07/why-i-willingly-handed-over-my-credit-card-and-pin-fraudster)
