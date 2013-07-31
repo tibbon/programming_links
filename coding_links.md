@@ -1,5 +1,6 @@
 ## To Read
 
+* [On SQL Injection](http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html#)
 * [Advanced CC Fraud](http://www.newstatesman.com/voices/2013/07/why-i-willingly-handed-over-my-credit-card-and-pin-fraudster)
 * [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
 * [Tor - Secure messaging](http://tox.im/)
