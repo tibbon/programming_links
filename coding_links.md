@@ -1,5 +1,6 @@
 ## To Read
 
+* [Hard drive root after format hack](http://spritesmods.com/?art=hddhack)
 * [Maps of unrealized plans](http://www.wired.com/wiredscience/2013/08/hyperreal-cartography-city-maps/?mbid=social10361514)
 * [NSA collects everything](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 * [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/)
