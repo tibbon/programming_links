@@ -1,5 +1,6 @@
 ## To Read
 
+* [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
 * [Cryptopolcalypse](http://www.slideshare.net/astamos/bh-slides)
 * [Hard drive root after format hack](http://spritesmods.com/?art=hddhack)
 * [Maps of unrealized plans](http://www.wired.com/wiredscience/2013/08/hyperreal-cartography-city-maps/?mbid=social10361514)
