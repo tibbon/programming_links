@@ -1,5 +1,6 @@
 ## To Read
 
+* [Labels to break If statements in Javascript](http://rthor.is/javascript/quick-tip-labeled-ifs/#.UgJRIGRARm0)
 * [Defcon Documentary](http://ascii.textfiles.com/archives/3984?fb_source=pubv1)
 * [Holocracy](http://holacracy.org/)
 * [Medium without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
