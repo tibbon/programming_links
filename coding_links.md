@@ -1,5 +1,6 @@
 ## To Read
 
+* [Differences between Block Proc and Lambda in Ruby](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 * [WebGL Particles](http://soulwire.co.uk/experiments/webgl-gpu-particles/)
 * [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
 * [Cryptopolcalypse](http://www.slideshare.net/astamos/bh-slides)
