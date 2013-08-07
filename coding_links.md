@@ -1,5 +1,7 @@
 ## To Read
 
+* [Reactive.coffee](http://yz.mit.edu/wp/introducing-reactive-coffee/)
+* [Three new programming languages to watch](http://adambard.com/blog/3-languages-to-watch/)
 * [Labels to break If statements in Javascript](http://rthor.is/javascript/quick-tip-labeled-ifs/#.UgJRIGRARm0)
 * [Defcon Documentary](http://ascii.textfiles.com/archives/3984?fb_source=pubv1)
 * [Holocracy](http://holacracy.org/)
