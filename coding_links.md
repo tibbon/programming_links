@@ -1,5 +1,6 @@
 ## To Read
 
+* [Defcon Documentary](http://ascii.textfiles.com/archives/3984?fb_source=pubv1)
 * [Holocracy](http://holacracy.org/)
 * [Medium without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 * [Differences between Block Proc and Lambda in Ruby](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
