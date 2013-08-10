@@ -1,5 +1,6 @@
 ## To Read
 
+* [Lavabit on Email in Forbes](http://www.forbes.com/sites/kashmirhill/2013/08/09/lavabits-ladar-levison-if-you-knew-what-i-know-about-email-you-might-not-use-it/)
 * [Procedural City in 100 Lines of WebGL](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
 * [Reactive.coffee](http://yz.mit.edu/wp/introducing-reactive-coffee/)
 * [Three new programming languages to watch](http://adambard.com/blog/3-languages-to-watch/)
