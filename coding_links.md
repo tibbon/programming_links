@@ -1,5 +1,7 @@
 ## To Read
 
+* [Bootstrap Landing Pages](http://www.williamghelfi.com/blog/2013/08/04/bootstrap-in-practice-a-landing-page/)
+* [Pixel HTML Timing attacks](http://contextis.co.uk/research/white-papers/pixel-perfect-timing-attacks-html5/)
 * [Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 * [Socialbots and WEP in Forbes](http://www.forbes.com/sites/kashmirhill/2013/08/07/the-type-of-people-most-likely-to-get-suckered-by-a-twitter-bot/)
 * [Socialbots in NYT](http://www.nytimes.com/2013/08/11/sunday-review/i-flirt-and-tweet-follow-me-at-socialbot.html?smid=tw-share&_r=2&)
