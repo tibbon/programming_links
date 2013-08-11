@@ -1,5 +1,7 @@
 ## To Read
 
+* [Socialbots and WEB in Forbes](http://www.forbes.com/sites/kashmirhill/2013/08/07/the-type-of-people-most-likely-to-get-suckered-by-a-twitter-bot/)
+* [Socialbots in NYT](http://www.nytimes.com/2013/08/11/sunday-review/i-flirt-and-tweet-follow-me-at-socialbot.html?smid=tw-share&_r=2&)
 * [iPhone sound](http://jacklinstudios.com/docs/making-of-158-marimba.html)
 * [ShowTerm screencasts](http://showterm.io/)
 * [Absolute centering CSS](http://codepen.io/shshaw/full/gEiDt)
