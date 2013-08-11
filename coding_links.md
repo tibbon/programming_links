@@ -1,5 +1,6 @@
 ## To Read
 
+* [Hacking Wifi SD cards](http://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
 * [Flat surface shader](http://wagerfield.github.io/flat-surface-shader/)
 * [Bootstrap Landing Pages](http://www.williamghelfi.com/blog/2013/08/04/bootstrap-in-practice-a-landing-page/)
 * [Pixel HTML Timing attacks](http://contextis.co.uk/research/white-papers/pixel-perfect-timing-attacks-html5/)
