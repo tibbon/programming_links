@@ -1,5 +1,6 @@
 ## To Read
 
+* [Flat surface shader](http://wagerfield.github.io/flat-surface-shader/)
 * [Bootstrap Landing Pages](http://www.williamghelfi.com/blog/2013/08/04/bootstrap-in-practice-a-landing-page/)
 * [Pixel HTML Timing attacks](http://contextis.co.uk/research/white-papers/pixel-perfect-timing-attacks-html5/)
 * [Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
