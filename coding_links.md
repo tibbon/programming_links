@@ -1,5 +1,6 @@
 ## To Read
 
+* [Making Ruby Project 10x faster](http://www.adit.io/posts/2013-03-04-How-I-Made-My-Ruby-Project-10x-Faster.html)
 * [Destructing assignment in ECMAScript6](http://fitzgeraldnick.com/weblog/50/)
 * [PCB Tests](http://www.justgeek.de/pcb-sample-set/)
 * [Laundry Hacking](http://www.limpkin.fr/index.php?post/2012/04/30/Hacking-a-laundry-machine-in-one-day-%28SLE4442%29)
