@@ -1,5 +1,6 @@
 ## To Read
 
+* [Absolute Beginners Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 * [Making Ruby Project 10x faster](http://www.adit.io/posts/2013-03-04-How-I-Made-My-Ruby-Project-10x-Faster.html)
 * [Destructing assignment in ECMAScript6](http://fitzgeraldnick.com/weblog/50/)
 * [PCB Tests](http://www.justgeek.de/pcb-sample-set/)
