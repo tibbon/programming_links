@@ -1,5 +1,17 @@
 ## To Read
 
+* [Absolute beginners guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+* [Benchmarking Ruby Code](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
+* [Postgres 9.3 JSON functions](http://www.postgresql.org/docs/9.3/static/functions-json.html)
+* [Postgres 9.3 Heroku Beta](https://postgres.heroku.com/blog/past/2013/5/15/postgres_93_beta_access/)
+* [ActiveRecord Postgres hstore](https://github.com/diogob/activerecord-postgres-hstore)
+* [16 new postgres extensions for Heroku](https://postgres.heroku.com/blog/past/2012/8/2/announcing_support_for_17_new_postgres_extensions_including_dblink/)
+* [PGbench - postgres benchmarking](http://www.postgresql.org/docs/devel/static/pgbench.html)
+* [Scaling Heroku with Unicorn](http://blog.bignerdranch.com/2188-how-to-improve-rails-application-performance-on-heroku/)
+* [Javascript Library for Progress Bars](http://ricostacruz.com/nprogress/)
+* [Concurrent Indexes in Postgres with Rails 4 and Postgres_ext](http://reefpoints.dockyard.com/ruby/2013/03/26/concurrent-indexes-in-postgresql-for-rails-4-and-postgres_ext.html)
+* [Caching ActiveRecord](http://stackoverflow.com/questions/11218917/confusion-caching-active-record-queries-with-rails-cache-fetch)
+* [Using Explain in Postgres](http://www.postgresql.org/docs/current/static/using-explain.html)
 * [Postgres Indexes & Heroku](https://devcenter.heroku.com/articles/postgresql-indexes)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Turning Apple II into Lisp Machine](http://blog.nullspace.io/apple-2-lisp-part-1.html)
