@@ -1,5 +1,6 @@
 ## To Read
 
+* [Postgres Indexes & Heroku](https://devcenter.heroku.com/articles/postgresql-indexes)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Turning Apple II into Lisp Machine](http://blog.nullspace.io/apple-2-lisp-part-1.html)
 * [Perfectly Balanced Photo Gallery](http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery)
