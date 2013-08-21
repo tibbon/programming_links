@@ -1,5 +1,6 @@
 ## To Read
 
+* [Ruby Observer Pattern and NSA](http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html)
 * [Is the Internet a human Right?](https://www.facebook.com/isconnectivityahumanright/isconnectivityahumanright.pdf)
 * [Internet.org](http://internet.org/)
 * [Quantified Mind](http://www.quantified-mind.com/)
