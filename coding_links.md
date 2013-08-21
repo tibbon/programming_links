@@ -1,5 +1,6 @@
 ## To Read
 
+* [Quantified Mind](http://www.quantified-mind.com/)
 * [Better JS Loops](http://www.impressivewebs.com/javascript-for-loop/)
 * [Ungit. Super awesome](https://github.com/FredrikNoren/ungit)
 * [Absolute beginners guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
