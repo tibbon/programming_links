@@ -1,5 +1,6 @@
 ## To Read
 
+* [Is the Internet a human Right?](https://www.facebook.com/isconnectivityahumanright/isconnectivityahumanright.pdf)
 * [Internet.org](http://internet.org/)
 * [Quantified Mind](http://www.quantified-mind.com/)
 * [Better JS Loops](http://www.impressivewebs.com/javascript-for-loop/)
