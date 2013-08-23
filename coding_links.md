@@ -1,5 +1,6 @@
 ## To Read
 
+* [Interactive Race map](http://newswatch.nationalgeographic.com/2013/08/21/interactive-map-color-codes-race-of-every-single-american/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
 * [Average income per programming language](http://bpodgursky.wordpress.com/2013/08/21/average-income-per-programming-language/)
 * [Amazon's Warehouse building spree](http://www.bloomberg.com/news/2013-08-20/amazon-ramps-up-13-9-billion-warehouse-building-spree.html)
