@@ -1,5 +1,7 @@
 ## To Read
 
+* [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
+* [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
 * [Interactive Race map](http://newswatch.nationalgeographic.com/2013/08/21/interactive-map-color-codes-race-of-every-single-american/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
 * [Average income per programming language](http://bpodgursky.wordpress.com/2013/08/21/average-income-per-programming-language/)
