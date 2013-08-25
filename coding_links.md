@@ -1,5 +1,6 @@
 ## To Read
 
+* [Myth: Select all is bad](http://use-the-index-luke.com/blog/2013-08/its-not-about-the-star-stupid)
 * [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
 * [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
 * [Interactive Race map](http://newswatch.nationalgeographic.com/2013/08/21/interactive-map-color-codes-race-of-every-single-american/)
