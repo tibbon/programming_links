@@ -1,5 +1,7 @@
 ## To Read
 
+
+* [John Carmak on Haskell](http://functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/)
 * [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Myth: Select all is bad](http://use-the-index-luke.com/blog/2013-08/its-not-about-the-star-stupid)
 * [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
