@@ -1,5 +1,6 @@
 ## To Read
 
+* [Reinventing secure email](http://www.wired.com/wiredenterprise/2013/08/mailpile/?mbid=social11221114)
 * [Costumes](http://www.wired.com/design/2013/08/the-gorgeous-costumes-of-europes-wild-men/#slideid-209001)
 * [On Long Term disabilities polices & HR benefits](http://42floors.com/blog/the-one-hr-benefit-every-startup-should-add/)
 * [John Carmak on Haskell](http://functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/)
