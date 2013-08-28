@@ -19,6 +19,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Why 1 && 2 == 2](http://blog.chewxy.com/2013/07/19/why-1-2-2/)
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Benchmarking MVC frameworks v6](http://www.techempower.com/blog/2013/07/02/frameworks-round-6/)
+* [Course in Reactive programming](https://www.coursera.org/course/reactive)
 
 ### Computer Science/Math
 
