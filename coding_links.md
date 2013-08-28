@@ -1,5 +1,6 @@
 ## To Read
 
+* [Celluloid and Parallel Processing in Ruby](http://jessewolgamott.com/blog/2013/02/07/the-one-where-i-introduce-celluloid-pmap/)
 * [Docker- Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 * [LaTex resume creator](https://www.cvsintellect.com/guest/home)
 * [Map Vectorizer](https://github.com/NYPL/map-vectorizer)
