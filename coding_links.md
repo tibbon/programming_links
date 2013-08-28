@@ -1,6 +1,6 @@
 ## To Read
 
-
+* [Map Vectorizer](https://github.com/NYPL/map-vectorizer)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
 * [Reinventing secure email](http://www.wired.com/wiredenterprise/2013/08/mailpile/?mbid=social11221114)
 * [Costumes](http://www.wired.com/design/2013/08/the-gorgeous-costumes-of-europes-wild-men/#slideid-209001)
