@@ -23,6 +23,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Computer Science/Math
 
+* [What is Algebra](http://profkeithdevlin.org/2011/11/20/what-is-algebra/)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
 * [Essential Math for Game Programmers](http://www.essentialmath.com/tutorial.htm)
 * [Big O as explained by self taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
@@ -76,6 +77,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### CSS/Design
 
+* [Zero to Sixty](http://acko.net/blog/zero-to-sixty-in-one-second/)
+* [What to do when you're the only design](http://firstround.com/article/What-to-Do-When-Youre-the-Only-Designer-Theyve-Got)
 * [Refactoring Github's interface](http://ianstormtaylor.com/refactoring-githubs-design/)
 * [Divshot for Bootstrap](http://blog.divshot.com/post/55791825061/divshot-1-0-visual-front-end-development-for-bootstrap)
 * [Practical Typography](http://practicaltypography.com/)
@@ -87,6 +90,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Go
 
+* [Go after 2 years in production](http://blog.iron.io/2013/08/go-after-2-years-in-production.html?m=1)
 * [Python vs Go. Req per second](http://dustinrcollins.com/post/58656259972/python-vs-go-requests-per-second)
 * [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
@@ -204,6 +208,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [cjdns- Encryption for regular people](https://github.com/cjdelisle/cjdns)
 * [Project Meshnet](http://projectmeshnet.org/)
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
+* [Use your own VPN](https://www.tinfoilsecurity.com/blog/dont-get-pwned-on-public-wifi-use-your-own-vpn-tutorial-guide-how-to)
 
 ## Science and general tech
 
