@@ -1,5 +1,6 @@
 ## To Read
 
+* [Docker- Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 * [LaTex resume creator](https://www.cvsintellect.com/guest/home)
 * [Map Vectorizer](https://github.com/NYPL/map-vectorizer)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
