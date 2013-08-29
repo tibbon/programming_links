@@ -32,6 +32,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Ruby
 
+* [Roll your own Ruby web framework in 30 minutes](http://svs.io/post/59495114366/roll-your-own-web-framework-in-half-an-hour)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
 * [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
 * [What does Ruby have that Python doesnt](http://stackoverflow.com/questions/1113611/what-does-ruby-have-that-python-doesnt-and-vice-versa?rq=1)
