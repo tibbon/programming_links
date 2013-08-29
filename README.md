@@ -161,6 +161,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Internet.org](http://internet.org/)
 * [Public Speaking for Introverts](http://danshipper.com/public-speaking-for-introverts?utm_source=Dan%27s+Blog+List&utm_campaign=718f71be14-Newsletter_nice_design_17_8_11_2013&utm_medium=email&utm_term=0_c18fe7384e-718f71be14-40620601)
 * [Be a Sociopath, or act like one](http://www.economist.com/blogs/prospero/2013/08/self-help)
+* [DaVinci Applying for a Job](http://brucesterling.tumblr.com/post/59667145879/leonardo-da-vinci-needs-a-job)
 
 ### Web Ecology
 
