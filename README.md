@@ -74,10 +74,13 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/)
 * [Minimalist text game](http://adarkroom.doublespeakgames.com/)
 * [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
+* [AngularFire](http://angularfire.com/)
 
 
 ### CSS/Design
 
+* [Visualizations that make no sense](http://wtfviz.net/)
+* [CSS Designed to trick people](http://darkpatterns.org/)
 * [Zero to Sixty](http://acko.net/blog/zero-to-sixty-in-one-second/)
 * [What to do when you're the only design](http://firstround.com/article/What-to-Do-When-Youre-the-Only-Designer-Theyve-Got)
 * [Refactoring Github's interface](http://ianstormtaylor.com/refactoring-githubs-design/)
@@ -153,6 +156,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 * [LolCommits](http://mroth.github.io/lolcommits/)
 * [Ungit. Super awesome](https://github.com/FredrikNoren/ungit)
+* [Tree Text Editor](https://gingkoapp.com/p/future-of-text/)
 
 ## Culture/Social
 
@@ -163,6 +167,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Public Speaking for Introverts](http://danshipper.com/public-speaking-for-introverts?utm_source=Dan%27s+Blog+List&utm_campaign=718f71be14-Newsletter_nice_design_17_8_11_2013&utm_medium=email&utm_term=0_c18fe7384e-718f71be14-40620601)
 * [Be a Sociopath, or act like one](http://www.economist.com/blogs/prospero/2013/08/self-help)
 * [DaVinci Applying for a Job](http://brucesterling.tumblr.com/post/59667145879/leonardo-da-vinci-needs-a-job)
+* [SYria to German Visa. HN](https://news.ycombinator.com/item?id=6300923)
 
 ### Web Ecology
 
@@ -172,6 +177,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [SCRUMM Journal Engine](http://www.gamasutra.com/view/feature/196009/the_scumm_diary_stories_behind_.php?page=1)
 * [Dwarf Fortress in 2013 and the 30 year plan](http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
@@ -186,6 +192,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Holocracy](http://holacracy.org/)
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
 * [Cost of a bad hire](http://www.linkedin.com/today/post/article/20130716151946-2967511-the-high-costs-of-a-bad-hire-and-how-to-avoid-them)
+* [Startup founders with accents](http://paulgraham.com/accents.html) and on [HN](https://news.ycombinator.com/item?id=6302276)
 
 ## Security
 
@@ -226,8 +233,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Build your own private encrypted dropbox](https://gist.github.com/Tho85/6045429)
 * [From the makers of RapGenius- PoetryGenius](http://poetry.rapgenius.com/)
 * [Web as you know is Dying](http://evbogue.com/)
-
-
+* [Best Dumbphone you can buy](http://www.wired.com/gadgetlab/2013/08/nokias-nicest-dumbphon/)
+* [Man who can run forever](http://www.theguardian.com/lifeandstyle/the-running-blog/2013/aug/30/dean-karnazes-man-run-forever)
 
 ## Hardware/EE
 
