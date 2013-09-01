@@ -239,6 +239,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Best Dumbphone you can buy](http://www.wired.com/gadgetlab/2013/08/nokias-nicest-dumbphon/)
 * [Man who can run forever](http://www.theguardian.com/lifeandstyle/the-running-blog/2013/aug/30/dean-karnazes-man-run-forever)
 * [ReactOs. FOSS Windows NT](http://www.reactos.org/about-reactos)
+* [Muscle speaker???](https://www.seas.harvard.edu/news/2013/08/transparent-artificial-muscle-plays-grieg-to-prove-point/?utm_source=youtube&utm_medium=social&utm_campaign=harvard-youtube)
 
 ## Hardware/EE
 
