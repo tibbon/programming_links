@@ -20,6 +20,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Benchmarking MVC frameworks v6](http://www.techempower.com/blog/2013/07/02/frameworks-round-6/)
 * [Course in Reactive programming](https://www.coursera.org/course/reactive)
+* [Getting faster at debugging](http://arstechnica.com/information-technology/2013/08/my-boss-just-gave-me-a-warning-is-there-a-way-to-get-faster-at-solving-bugs/)
 
 ### Computer Science/Math
 
