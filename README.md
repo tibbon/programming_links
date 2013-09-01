@@ -178,6 +178,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
 * [SCRUMM Journal Engine](http://www.gamasutra.com/view/feature/196009/the_scumm_diary_stories_behind_.php?page=1)
 * [Dwarf Fortress in 2013 and the 30 year plan](http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
