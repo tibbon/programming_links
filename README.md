@@ -194,6 +194,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
 * [Cost of a bad hire](http://www.linkedin.com/today/post/article/20130716151946-2967511-the-high-costs-of-a-bad-hire-and-how-to-avoid-them)
 * [Startup founders with accents](http://paulgraham.com/accents.html) and on [HN](https://news.ycombinator.com/item?id=6302276)
+* [Litmus test](http://ninjasandrobots.com/litmus-test/)
 
 ## Security
 
