@@ -80,6 +80,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### CSS/Design
 
+* [Procedurally selected colors](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
 * [Visualizations that make no sense](http://wtfviz.net/)
 * [CSS Designed to trick people](http://darkpatterns.org/)
 * [Zero to Sixty](http://acko.net/blog/zero-to-sixty-in-one-second/)
