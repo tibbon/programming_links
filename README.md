@@ -81,6 +81,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### CSS/Design
 
+* [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [Procedurally selected colors](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
 * [Visualizations that make no sense](http://wtfviz.net/)
 * [CSS Designed to trick people](http://darkpatterns.org/)
