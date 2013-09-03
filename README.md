@@ -2,6 +2,10 @@
 
 I don't like using Chrome bookmarks. Other services for bookmarking don't really do what I want. Keeping them locally is a mess. Git is better. 
 
+## Teaching
+
+* [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
+
 ## SAAS/PAAS
 
 * [Free Email Validation](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/)
