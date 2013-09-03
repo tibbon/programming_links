@@ -254,6 +254,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Muscle speaker???](https://www.seas.harvard.edu/news/2013/08/transparent-artificial-muscle-plays-grieg-to-prove-point/?utm_source=youtube&utm_medium=social&utm_campaign=harvard-youtube)
 * [All buildings in Netherlands by date](http://dev.citysdk.waag.org/buildings/#52.2259,4.9778,11)
 * [I couldn't wait for the new Mac Pro](http://blog.hopefullyuseful.com/blog/2013/08/31/i-couldnt-wait-for-the-new-mac-pro/)
+* [ATT gives DEA 26 years of records](http://arstechnica.com/tech-policy/2013/09/att-gives-dea-26-years-of-phone-call-records-to-wage-war-on-drugs/)
 
 ## Hardware/EE
 
