@@ -8,6 +8,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Programming Languages
 
+* [Light Table. New IDE for awesome](http://www.lighttable.com/)
 * [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
 * [Average income per programming language](http://bpodgursky.wordpress.com/2013/08/21/average-income-per-programming-language/)
 * [John Carmack on the Art and Science of Software Engineering](http://blogs.uw.edu/ajko/2012/08/22/john-carmack-discusses-the-art-and-science-of-software-engineering/)
@@ -246,6 +247,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [ReactOs. FOSS Windows NT](http://www.reactos.org/about-reactos)
 * [Muscle speaker???](https://www.seas.harvard.edu/news/2013/08/transparent-artificial-muscle-plays-grieg-to-prove-point/?utm_source=youtube&utm_medium=social&utm_campaign=harvard-youtube)
 * [All buildings in Netherlands by date](http://dev.citysdk.waag.org/buildings/#52.2259,4.9778,11)
+* [I couldn't wait for the new Mac Pro](http://blog.hopefullyuseful.com/blog/2013/08/31/i-couldnt-wait-for-the-new-mac-pro/)
 
 ## Hardware/EE
 
