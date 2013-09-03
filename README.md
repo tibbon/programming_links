@@ -179,6 +179,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [Gone Home - One of the best games I've played in a few years](http://thefullbrightcompany.com/gonehome/)
+* [Down the VR Rabbit Hole](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 * [Warcraft Civ 5 mod](http://kotaku.com/this-ambitious-mod-aims-to-fully-convert-civilization-v-1239252532?utm_campaign=Socialflow_Kotaku_Facebook&utm_source=Kotaku_Facebook&utm_medium=Socialflow)
 * [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
 * [SCRUMM Journal Engine](http://www.gamasutra.com/view/feature/196009/the_scumm_diary_stories_behind_.php?page=1)
