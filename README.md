@@ -25,6 +25,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Computer Science/Math
 
+* [Pseudocode solving a problem](http://cmuems.com/2013/a/golan/09/02/melanie-nailed-it/)
 * [What is Algebra](http://profkeithdevlin.org/2011/11/20/what-is-algebra/)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
 * [Essential Math for Game Programmers](http://www.essentialmath.com/tutorial.htm)
