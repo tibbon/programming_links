@@ -207,6 +207,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [My First MMO experience, UO](http://poisonman.wordpress.com/tag/ultima-online/)
 * [Raph Kosters website, uo](http://www.raphkoster.com/tag/ultima-online/)
 * [Video review of The Realm, early MMORPG](http://www.youtube.com/watch?v=uxdrbhZFGwY)
+* [Can UO be born again?](http://www.youtube.com/watch?v=HWi9dXJxO0M)
 
 ## Startups
 
