@@ -44,20 +44,25 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
 * [What does Ruby have that Python doesnt](http://stackoverflow.com/questions/1113611/what-does-ruby-have-that-python-doesnt-and-vice-versa?rq=1)
 * [StatD and Graphite monitoring](http://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/)
-* [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
-* [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
 * [Reactive Ruby Extensions](http://rxrb.codeplex.com/)
 * [Upton- web scraping framework](http://www.propublica.org/nerds/item/upton-a-web-scraping-framework)
 * [Celluloid and Parallel Processing in Ruby](http://jessewolgamott.com/blog/2013/02/07/the-one-where-i-introduce-celluloid-pmap/)
 * [Ruby Observer Pattern and NSA](http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html)
 * [Benchmarking Ruby Code](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
-* [ActiveRecord Postgres hstore](https://github.com/diogob/activerecord-postgres-hstore)
-* [Caching ActiveRecord](http://stackoverflow.com/questions/11218917/confusion-caching-active-record-queries-with-rails-cache-fetch)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Making Ruby Project 10x faster](http://www.adit.io/posts/2013-03-04-How-I-Made-My-Ruby-Project-10x-Faster.html)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
-* [State Machines and Rails](http://gistflow.com/posts/679-state-machine-with-rails-basics)
 * [Differences between Block Proc and Lambda in Ruby](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
+
+
+#### Rails
+
+* [Digging Into Rails 4](http://net.tutsplus.com/tutorials/ruby/digging-into-rails-4/)
+* [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
+* [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
+* [ActiveRecord Postgres hstore](https://github.com/diogob/activerecord-postgres-hstore)
+* [Caching ActiveRecord](http://stackoverflow.com/questions/11218917/confusion-caching-active-record-queries-with-rails-cache-fetch)
+* [State Machines and Rails](http://gistflow.com/posts/679-state-machine-with-rails-basics)
 * [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
 
 ### JavaScript
@@ -233,6 +238,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Project Meshnet](http://projectmeshnet.org/)
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
 * [Use your own VPN](https://www.tinfoilsecurity.com/blog/dont-get-pwned-on-public-wifi-use-your-own-vpn-tutorial-guide-how-to)
+* [Pineapple MIM](http://hakshop.myshopify.com/products/wifi-pineapple)
 
 ## Science and general tech
 
