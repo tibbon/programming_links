@@ -200,6 +200,13 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
 
+### Emergent Gameplay
+
+* [Ultima Online Postmortem](http://www.gdcvault.com/play/1016629/Classic-Game-Postmortem-Ultima)
+* [Origin of Ultima Online](http://uo.ultimacodex.com/2012/08/origin-of-ultima-online-at-gdc-online-2012/)
+* [My First MMO experience, UO](http://poisonman.wordpress.com/tag/ultima-online/)
+* [Raph Kosters website, uo](http://www.raphkoster.com/tag/ultima-online/)
+
 ## Startups
 
 * [Amazon's Warehouse building spree](http://www.bloomberg.com/news/2013-08-20/amazon-ramps-up-13-9-billion-warehouse-building-spree.html)
