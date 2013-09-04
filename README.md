@@ -185,6 +185,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Web Ecology
 
+* [NGram Analysis of NYT Wedding section](http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics)
 * [Socialbots and WEP in Forbes](http://www.forbes.com/sites/kashmirhill/2013/08/07/the-type-of-people-most-likely-to-get-suckered-by-a-twitter-bot/)
 * [Socialbots in NYT](http://www.nytimes.com/2013/08/11/sunday-review/i-flirt-and-tweet-follow-me-at-socialbot.html?smid=tw-share&_r=2&)
 * [How Lingustics Outted JK Rowling](http://phenomena.nationalgeographic.com/2013/07/19/how-forensic-linguistics-outed-j-k-rowling-not-to-mention-james-madison-barack-obama-and-the-rest-of-us/)
