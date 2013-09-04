@@ -270,6 +270,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [All buildings in Netherlands by date](http://dev.citysdk.waag.org/buildings/#52.2259,4.9778,11)
 * [I couldn't wait for the new Mac Pro](http://blog.hopefullyuseful.com/blog/2013/08/31/i-couldnt-wait-for-the-new-mac-pro/)
 * [ATT gives DEA 26 years of records](http://arstechnica.com/tech-policy/2013/09/att-gives-dea-26-years-of-phone-call-records-to-wage-war-on-drugs/)
+* [Paper on lack of Tor anonymity](http://www.ohmygodel.com/publications/usersrouted-ccs13.pdf)
 
 ## Hardware/EE
 
