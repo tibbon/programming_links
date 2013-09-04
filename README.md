@@ -174,6 +174,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Culture/Social
 
+* [Interactive map of NYC vs 1800s](http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html)
 * [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
 * [Quantified Mind](http://www.quantified-mind.com/)
 * [Interactive Race map](http://newswatch.nationalgeographic.com/2013/08/21/interactive-map-color-codes-race-of-every-single-american/)
