@@ -181,6 +181,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Culture/Social
 
+* [Man on a Desert Island](http://www.newrepublic.com/article/114549/dave-glasheen-lost-boy-restoration-island)
 * [Interactive map of NYC vs 1800s](http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html)
 * [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
 * [Quantified Mind](http://www.quantified-mind.com/)
