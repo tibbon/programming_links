@@ -13,6 +13,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Programming Languages
 
+* [Ultimate VIM Bundle. Thanks dhchoi for the tip](http://vim.spf13.com/)
 * [Using GNU-stow to manage dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * [Light Table. New IDE for awesome](http://www.lighttable.com/)
 * [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
