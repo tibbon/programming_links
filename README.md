@@ -5,6 +5,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 ## Teaching
 
 * [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
+* [Didn't get enough sleep? Might as well be drunk](http://www.forbes.com/sites/kellyclay/2013/09/04/didnt-get-enough-sleep-you-might-as-well-be-drunk/)
 
 ## SAAS/PAAS
 
