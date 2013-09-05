@@ -69,6 +69,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### JavaScript
 
+* [Angular tutorial build modern web apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
