@@ -158,6 +158,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Deployment & Scaling
 
+* [ElasticCache now supports Redis](http://aws.typepad.com/aws/2013/09/amazon-elasticache-now-with-a-dash-of-redis.html)
 * [Heroku Fork release](https://blog.heroku.com/archives/2013/6/27/heroku-fork)
 * [Puma vs Passenger](https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger)
 * [Kite - Rails Deployment in seconds](http://www.runkite.com/)
