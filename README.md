@@ -237,6 +237,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Security
 
+* [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
 * [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
 * [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
