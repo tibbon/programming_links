@@ -2,12 +2,20 @@
 
 I don't like using Chrome bookmarks. Other services for bookmarking don't really do what I want. Keeping them locally is a mess. Git is better. 
 
+## Teaching
+
+* [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
+* [Didn't get enough sleep? Might as well be drunk](http://www.forbes.com/sites/kellyclay/2013/09/04/didnt-get-enough-sleep-you-might-as-well-be-drunk/)
+
 ## SAAS/PAAS
 
 * [Free Email Validation](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/)
 
 ## Programming Languages
 
+* [Ultimate VIM Bundle. Thanks dhchoi for the tip](http://vim.spf13.com/)
+* [Using GNU-stow to manage dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+* [Light Table. New IDE for awesome](http://www.lighttable.com/)
 * [How to shoot yourself in the foot in any programming language](http://www.fullduplex.org/humor/2006/10/how-to-shoot-yourself-in-the-foot-in-any-programming-language/)
 * [Average income per programming language](http://bpodgursky.wordpress.com/2013/08/21/average-income-per-programming-language/)
 * [John Carmack on the Art and Science of Software Engineering](http://blogs.uw.edu/ajko/2012/08/22/john-carmack-discusses-the-art-and-science-of-software-engineering/)
@@ -19,9 +27,13 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Why 1 && 2 == 2](http://blog.chewxy.com/2013/07/19/why-1-2-2/)
 * [Shit for making websites](http://shitformakingwebsites.com/)
 * [Benchmarking MVC frameworks v6](http://www.techempower.com/blog/2013/07/02/frameworks-round-6/)
+* [Course in Reactive programming](https://www.coursera.org/course/reactive)
+* [Getting faster at debugging](http://arstechnica.com/information-technology/2013/08/my-boss-just-gave-me-a-warning-is-there-a-way-to-get-faster-at-solving-bugs/)
 
 ### Computer Science/Math
 
+* [Pseudocode solving a problem](http://cmuems.com/2013/a/golan/09/02/melanie-nailed-it/)
+* [What is Algebra](http://profkeithdevlin.org/2011/11/20/what-is-algebra/)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
 * [Essential Math for Game Programmers](http://www.essentialmath.com/tutorial.htm)
 * [Big O as explained by self taught programmer](http://justin.abrah.ms/computer-science/big-o-notation-explained.html)
@@ -30,28 +42,36 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Ruby
 
+* [Human Regex in Ruby](http://krainboltgreene.github.io/hexpress/)
+* [Roll your own Ruby web framework in 30 minutes](http://svs.io/post/59495114366/roll-your-own-web-framework-in-half-an-hour)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
 * [Interview with Matz about the future of technology](http://fredwu.me/post/54175219257/the-future-of-computing-the-future-of-computer)
 * [What does Ruby have that Python doesnt](http://stackoverflow.com/questions/1113611/what-does-ruby-have-that-python-doesnt-and-vice-versa?rq=1)
 * [StatD and Graphite monitoring](http://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/)
-* [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
-* [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
 * [Reactive Ruby Extensions](http://rxrb.codeplex.com/)
 * [Upton- web scraping framework](http://www.propublica.org/nerds/item/upton-a-web-scraping-framework)
 * [Celluloid and Parallel Processing in Ruby](http://jessewolgamott.com/blog/2013/02/07/the-one-where-i-introduce-celluloid-pmap/)
 * [Ruby Observer Pattern and NSA](http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html)
 * [Benchmarking Ruby Code](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
-* [ActiveRecord Postgres hstore](https://github.com/diogob/activerecord-postgres-hstore)
-* [Caching ActiveRecord](http://stackoverflow.com/questions/11218917/confusion-caching-active-record-queries-with-rails-cache-fetch)
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
 * [Making Ruby Project 10x faster](http://www.adit.io/posts/2013-03-04-How-I-Made-My-Ruby-Project-10x-Faster.html)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
-* [State Machines and Rails](http://gistflow.com/posts/679-state-machine-with-rails-basics)
 * [Differences between Block Proc and Lambda in Ruby](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
+
+
+#### Rails
+
+* [Digging Into Rails 4](http://net.tutsplus.com/tutorials/ruby/digging-into-rails-4/)
+* [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
+* [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
+* [ActiveRecord Postgres hstore](https://github.com/diogob/activerecord-postgres-hstore)
+* [Caching ActiveRecord](http://stackoverflow.com/questions/11218917/confusion-caching-active-record-queries-with-rails-cache-fetch)
+* [State Machines and Rails](http://gistflow.com/posts/679-state-machine-with-rails-basics)
 * [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
 
 ### JavaScript
 
+* [Angular tutorial build modern web apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
 * [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
@@ -71,10 +91,18 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/)
 * [Minimalist text game](http://adarkroom.doublespeakgames.com/)
 * [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
+* [AngularFire](http://angularfire.com/)
 
 
 ### CSS/Design
 
+* [Arial vs Helvetica](http://arialvshelvetica.com/)
+* [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
+* [Procedurally selected colors](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
+* [Visualizations that make no sense](http://wtfviz.net/)
+* [CSS Designed to trick people](http://darkpatterns.org/)
+* [Zero to Sixty](http://acko.net/blog/zero-to-sixty-in-one-second/)
+* [What to do when you're the only design](http://firstround.com/article/What-to-Do-When-Youre-the-Only-Designer-Theyve-Got)
 * [Refactoring Github's interface](http://ianstormtaylor.com/refactoring-githubs-design/)
 * [Divshot for Bootstrap](http://blog.divshot.com/post/55791825061/divshot-1-0-visual-front-end-development-for-bootstrap)
 * [Practical Typography](http://practicaltypography.com/)
@@ -86,6 +114,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Go
 
+* [Go after 2 years in production](http://blog.iron.io/2013/08/go-after-2-years-in-production.html?m=1)
 * [Python vs Go. Req per second](http://dustinrcollins.com/post/58656259972/python-vs-go-requests-per-second)
 * [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
 * [An Introduction to the Go Language](http://blog.smartbear.com/programming/an-introduction-to-the-go-language-boldly-going-where-no-man-has-ever-gone-before/)
@@ -98,6 +127,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Java
 
+* [How to crack Colbalt Strike](http://blog.strategiccyber.com/2013/09/05/how-to-crack-cobalt-strike-and-backdoor-it/)
 * [Learn Java in x Minutes](http://learnxinyminutes.com/docs/java/)
 
 ### Lisp
@@ -132,6 +162,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Deployment & Scaling
 
+* [ElasticCache now supports Redis](http://aws.typepad.com/aws/2013/09/amazon-elasticache-now-with-a-dash-of-redis.html)
 * [Heroku Fork release](https://blog.heroku.com/archives/2013/6/27/heroku-fork)
 * [Puma vs Passenger](https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger)
 * [Kite - Rails Deployment in seconds](http://www.runkite.com/)
@@ -147,27 +178,52 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 * [LolCommits](http://mroth.github.io/lolcommits/)
 * [Ungit. Super awesome](https://github.com/FredrikNoren/ungit)
+* [Tree Text Editor](https://gingkoapp.com/p/future-of-text/)
 
 ## Culture/Social
 
+* [Man on a Desert Island](http://www.newrepublic.com/article/114549/dave-glasheen-lost-boy-restoration-island)
+* [Interactive map of NYC vs 1800s](http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html)
 * [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
 * [Quantified Mind](http://www.quantified-mind.com/)
 * [Interactive Race map](http://newswatch.nationalgeographic.com/2013/08/21/interactive-map-color-codes-race-of-every-single-american/)
 * [Internet.org](http://internet.org/)
 * [Public Speaking for Introverts](http://danshipper.com/public-speaking-for-introverts?utm_source=Dan%27s+Blog+List&utm_campaign=718f71be14-Newsletter_nice_design_17_8_11_2013&utm_medium=email&utm_term=0_c18fe7384e-718f71be14-40620601)
 * [Be a Sociopath, or act like one](http://www.economist.com/blogs/prospero/2013/08/self-help)
+* [DaVinci Applying for a Job](http://brucesterling.tumblr.com/post/59667145879/leonardo-da-vinci-needs-a-job)
+* [SYria to German Visa. HN](https://news.ycombinator.com/item?id=6300923)
+
+### Gender
+
+* [Stand up, dont lean in](https://medium.com/p/30391777b1fa)
 
 ### Web Ecology
 
+* [NGram Analysis of NYT Wedding section](http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics)
 * [Socialbots and WEP in Forbes](http://www.forbes.com/sites/kashmirhill/2013/08/07/the-type-of-people-most-likely-to-get-suckered-by-a-twitter-bot/)
 * [Socialbots in NYT](http://www.nytimes.com/2013/08/11/sunday-review/i-flirt-and-tweet-follow-me-at-socialbot.html?smid=tw-share&_r=2&)
 * [How Lingustics Outted JK Rowling](http://phenomena.nationalgeographic.com/2013/07/19/how-forensic-linguistics-outed-j-k-rowling-not-to-mention-james-madison-barack-obama-and-the-rest-of-us/)
 
 ## Gaming
 
+* [Why I'm not returning to PAX](http://www.wired.com/underwire/2013/09/penny-arcade-expo-dickwolves/)
+* [Gone Home - One of the best games I've played in a few years](http://thefullbrightcompany.com/gonehome/)
+* [Down the VR Rabbit Hole](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
+* [Warcraft Civ 5 mod](http://kotaku.com/this-ambitious-mod-aims-to-fully-convert-civilization-v-1239252532?utm_campaign=Socialflow_Kotaku_Facebook&utm_source=Kotaku_Facebook&utm_medium=Socialflow)
+* [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
+* [SCRUMM Journal Engine](http://www.gamasutra.com/view/feature/196009/the_scumm_diary_stories_behind_.php?page=1)
 * [Dwarf Fortress in 2013 and the 30 year plan](http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
+
+### Emergent Gameplay
+
+* [Ultima Online Postmortem](http://www.gdcvault.com/play/1016629/Classic-Game-Postmortem-Ultima)
+* [Origin of Ultima Online](http://uo.ultimacodex.com/2012/08/origin-of-ultima-online-at-gdc-online-2012/)
+* [My First MMO experience, UO](http://poisonman.wordpress.com/tag/ultima-online/)
+* [Raph Kosters website, uo](http://www.raphkoster.com/tag/ultima-online/)
+* [Video review of The Realm, early MMORPG](http://www.youtube.com/watch?v=uxdrbhZFGwY)
+* [Can UO be born again?](http://www.youtube.com/watch?v=HWi9dXJxO0M)
 
 ## Startups
 
@@ -179,9 +235,15 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Holocracy](http://holacracy.org/)
 * [Neocities- making the web fun again](http://neocities.org/blog/making-the-web-fun-again)
 * [Cost of a bad hire](http://www.linkedin.com/today/post/article/20130716151946-2967511-the-high-costs-of-a-bad-hire-and-how-to-avoid-them)
+* [Startup founders with accents](http://paulgraham.com/accents.html) and on [HN](https://news.ycombinator.com/item?id=6302276)
+* [English has been my pain...](http://antirez.com/news/61)
+* [Litmus test](http://ninjasandrobots.com/litmus-test/)
 
 ## Security
 
+* [How to stay secure against NSA](http://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance)
+* [NSA Foils much encryption-nytimes](http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?_r=0)
+* [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
 * [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
 * [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
@@ -203,6 +265,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [cjdns- Encryption for regular people](https://github.com/cjdelisle/cjdns)
 * [Project Meshnet](http://projectmeshnet.org/)
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
+* [Use your own VPN](https://www.tinfoilsecurity.com/blog/dont-get-pwned-on-public-wifi-use-your-own-vpn-tutorial-guide-how-to)
+* [Pineapple MIM](http://hakshop.myshopify.com/products/wifi-pineapple)
 
 ## Science and general tech
 
@@ -218,8 +282,14 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Build your own private encrypted dropbox](https://gist.github.com/Tho85/6045429)
 * [From the makers of RapGenius- PoetryGenius](http://poetry.rapgenius.com/)
 * [Web as you know is Dying](http://evbogue.com/)
-
-
+* [Best Dumbphone you can buy](http://www.wired.com/gadgetlab/2013/08/nokias-nicest-dumbphon/)
+* [Man who can run forever](http://www.theguardian.com/lifeandstyle/the-running-blog/2013/aug/30/dean-karnazes-man-run-forever)
+* [ReactOs. FOSS Windows NT](http://www.reactos.org/about-reactos)
+* [Muscle speaker???](https://www.seas.harvard.edu/news/2013/08/transparent-artificial-muscle-plays-grieg-to-prove-point/?utm_source=youtube&utm_medium=social&utm_campaign=harvard-youtube)
+* [All buildings in Netherlands by date](http://dev.citysdk.waag.org/buildings/#52.2259,4.9778,11)
+* [I couldn't wait for the new Mac Pro](http://blog.hopefullyuseful.com/blog/2013/08/31/i-couldnt-wait-for-the-new-mac-pro/)
+* [ATT gives DEA 26 years of records](http://arstechnica.com/tech-policy/2013/09/att-gives-dea-26-years-of-phone-call-records-to-wage-war-on-drugs/)
+* [Paper on lack of Tor anonymity](http://www.ohmygodel.com/publications/usersrouted-ccs13.pdf)
 
 ## Hardware/EE
 
@@ -234,11 +304,14 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## 3d/Animation
 
+* [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
 * [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
 * [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
 ### Motorcycles
- 
+* [How an engine works](http://jacoboneal.com/car-engine/)
+* [Motorcycle Bicycle](http://www.greyp-bikes.com/)
 * [R1200R Scrambler](http://www.bikeexif.com/bmw-r1200r)
+* [How to ride offroad](http://www.bestrestproducts.com/images/document/How%20To%20Ride%20A%20Motorcycle%20Off%20Road%20-%2003-28-12%201315.pdf)
 
 
