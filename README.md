@@ -298,6 +298,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## 3d/Animation
 
+* [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
 * [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
 * [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
