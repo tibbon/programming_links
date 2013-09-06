@@ -127,6 +127,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Java
 
+* [How to crack Colbalt Strike](http://blog.strategiccyber.com/2013/09/05/how-to-crack-cobalt-strike-and-backdoor-it/)
 * [Learn Java in x Minutes](http://learnxinyminutes.com/docs/java/)
 
 ### Lisp
