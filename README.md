@@ -193,6 +193,10 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [DaVinci Applying for a Job](http://brucesterling.tumblr.com/post/59667145879/leonardo-da-vinci-needs-a-job)
 * [SYria to German Visa. HN](https://news.ycombinator.com/item?id=6300923)
 
+### Gender
+
+* [Stand up, dont lean in](https://medium.com/p/30391777b1fa)
+
 ### Web Ecology
 
 * [NGram Analysis of NYT Wedding section](http://news.rapgenius.com/Atodd-when-harvard-met-sally-n-gram-analysis-of-the-new-york-times-weddings-section-lyrics)
