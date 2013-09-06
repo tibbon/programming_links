@@ -32,6 +32,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Computer Science/Math
 
+* [Grace Hopper Wikipedia page](http://en.wikipedia.org/wiki/Grace_Hopper)
 * [Pseudocode solving a problem](http://cmuems.com/2013/a/golan/09/02/melanie-nailed-it/)
 * [What is Algebra](http://profkeithdevlin.org/2011/11/20/what-is-algebra/)
 * [Alan Turing and gin computing](http://www.theregister.co.uk/2013/06/28/wilkes_centenary_mercury_memory/)
@@ -71,6 +72,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### JavaScript
 
+* [Trampolines in JavaScript](http://raganwald.com/2013/03/28/trampolines-in-javascript.html?utm_content=bufferdab4c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
 * [Little Lisp Interepter in JS](https://www.hackerschool.com/blog/21-little-lisp-interpreter)
 * [Ractive.js](http://www.ractivejs.org/)
@@ -93,6 +95,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Angular tutorial build modern web apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [AngularFire](http://angularfire.com/)
 * [Thinking in Angular from jQuery](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+* [5 things about Ember 1.0 release](https://www.codefellows.org/blogs/5-features-of-ember-js-1-0-every-dev-needs-to-know)
 
 #### 3d/Animation
 
@@ -171,6 +174,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Concurrent Indexes in Postgres with Rails 4 and Postgres_ext](http://reefpoints.dockyard.com/ruby/2013/03/26/concurrent-indexes-in-postgresql-for-rails-4-and-postgres_ext.html)
 * [Using Explain in Postgres](http://www.postgresql.org/docs/current/static/using-explain.html)
 * [Postgres Indexes & Heroku](https://devcenter.heroku.com/articles/postgresql-indexes)
+* [10 Easy Steps to a complete understanding of SQL](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql)
 
 ## Deployment & Scaling
 
@@ -186,15 +190,18 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Scaling Reddit from Million to Billion](http://www.infoq.com/presentations/scaling-reddit)
 * [1m tps on $5k hardware](http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html)
 * [Scaling Play to Thousands](http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests)
+* [Introduction to Opsworks](http://artsy.github.io/blog/2013/08/27/introduction-to-aws-opsworks/)
 
 ### Version Control/Git
 
+* [GitTrap- git based distributed forums](https://github.com/FriendCode/gitrap)
 * [LolCommits](http://mroth.github.io/lolcommits/)
 * [Ungit. Super awesome](https://github.com/FredrikNoren/ungit)
 * [Tree Text Editor](https://gingkoapp.com/p/future-of-text/)
 
 ## Culture/Social
 
+* [Largest homeless camp in SF](http://www.businessinsider.com/the-jungle-largest-homeless-camp-in-us-2013-8?op=1)
 * [Man on a Desert Island](http://www.newrepublic.com/article/114549/dave-glasheen-lost-boy-restoration-island)
 * [Interactive map of NYC vs 1800s](http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html)
 * [How to make Perfect Coffee](http://www.theatlantic.com/health/archive/2013/08/how-to-make-perfect-coffee/278944/)
@@ -205,6 +212,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Be a Sociopath, or act like one](http://www.economist.com/blogs/prospero/2013/08/self-help)
 * [DaVinci Applying for a Job](http://brucesterling.tumblr.com/post/59667145879/leonardo-da-vinci-needs-a-job)
 * [SYria to German Visa. HN](https://news.ycombinator.com/item?id=6300923)
+* [Redbull Photo contest winners](http://m.theatlantic.com/infocus/2013/08/winners-of-the-red-bull-illume-photo-contest-2013/100583/)
 
 ### Gender
 
@@ -243,6 +251,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Startups
 
+* [Setting salaries by voting](http://figure53.com/notes/2013-08-30-we-just-set-our-salaries/)
+* [Questhub- Share your quests](http://questhub.io/welcome)
 * [Amazon's Warehouse building spree](http://www.bloomberg.com/news/2013-08-20/amazon-ramps-up-13-9-billion-warehouse-building-spree.html)
 * [Medium without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 * [Is the Internet a human Right?](https://www.facebook.com/isconnectivityahumanright/isconnectivityahumanright.pdf)
@@ -256,7 +266,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Litmus test](http://ninjasandrobots.com/litmus-test/)
 
 ## Security
-
+* [First few ms of an HTTP connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html?m=1)
 * [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
 * [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
@@ -286,6 +296,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### NSA
 
+* [Government Face scanning is here](http://www.nytimes.com/2013/08/30/opinion/the-face-scan-arrives.html?_r=1&)
+* [More on NSA cracking](http://www.wired.com/threatlevel/2013/08/black-budget/)
+* [10B spend on government password cracking](http://arstechnica.com/security/2013/08/feds-plow-10-billion-into-groundbreaking-crypto-cracking-program/)
 * [NSA collects everything](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 * [How to stay secure against NSA](http://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance)
 * [NSA Foils much encryption-nytimes](http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?_r=0)
@@ -294,6 +307,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Science and general tech
 
+* [Movie Making for everyone- plotagon](https://plotagon.com/)
 * [New form of Carbon stronger than Graphene and Diamond](http://www.technologyreview.com/view/518301/new-form-of-carbon-is-stronger-than-graphene-and-diamond/)
 * [Web Server in one line of Bash](http://www.razvantudorica.com/08/web-server-in-one-line-of-bash/)
 * [Inverse Square roots made faster](http://www.beyond3d.com/content/articles/8/), and [more on it from the wikipedia](http://en.wikipedia.org/wiki/Fast_inverse_square_root)
