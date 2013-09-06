@@ -241,6 +241,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Security
 
+* [How to stay secure against NSA](http://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance)
+* [NSA Foils much encryption-nytimes](http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?_r=0)
 * [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
 * [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
@@ -307,6 +309,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
 ### Motorcycles
+* [How an engine works](http://jacoboneal.com/car-engine/)
 * [Motorcycle Bicycle](http://www.greyp-bikes.com/)
 * [R1200R Scrambler](http://www.bikeexif.com/bmw-r1200r)
 * [How to ride offroad](http://www.bestrestproducts.com/images/document/How%20To%20Ride%20A%20Motorcycle%20Off%20Road%20-%2003-28-12%201315.pdf)
