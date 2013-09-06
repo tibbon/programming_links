@@ -71,27 +71,39 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### JavaScript
 
-* [Angular tutorial build modern web apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
-* [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
-* [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
-* [Node.js MVC Framework](http://sailsjs.org/)
 * [Little Lisp Interepter in JS](https://www.hackerschool.com/blog/21-little-lisp-interpreter)
 * [Ractive.js](http://www.ractivejs.org/)
-* [Thinking in Angular from jQuery](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
 * [Better JS Loops](http://www.impressivewebs.com/javascript-for-loop/)
-* [Absolute beginners guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 * [Javascript Library for Progress Bars](http://ricostacruz.com/nprogress/)
 * [Destructing assignment in ECMAScript6](http://fitzgeraldnick.com/weblog/50/)
-* [Babylon.js. 3d framework for Javascript](http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx)
-* [WebGL Particles](http://soulwire.co.uk/experiments/webgl-gpu-particles/)
 * [Reactive.coffee](http://yz.mit.edu/wp/introducing-reactive-coffee/)
 * [Labels to break If statements in Javascript](http://rthor.is/javascript/quick-tip-labeled-ifs/#.UgJRIGRARm0)
-* [Procedural City in 100 Lines of WebGL](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
 * [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/)
 * [Minimalist text game](http://adarkroom.doublespeakgames.com/)
 * [Are we Fast Yet? Javascript engines](http://arewefastyet.com/)
+
+#### Node.js
+
+* [Node.js MVC Framework](http://sailsjs.org/)
+* [Absolute beginners guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
+#### MV Backbone Frameworks
+
+* [Angular tutorial build modern web apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [AngularFire](http://angularfire.com/)
+* [Thinking in Angular from jQuery](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+
+#### 3d/Animation
+
+* [Babylon.js. 3d framework for Javascript](http://blogs.msdn.com/b/eternalcoding/archive/2013/06/27/babylon-js-a-complete-javascript-framework-for-building-3d-games-with-html-5-and-webgl.aspx)* 
+* [WebGL Particles](http://soulwire.co.uk/experiments/webgl-gpu-particles/)
+* [Procedural City in 100 Lines of WebGL](http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/)
+* [Superconductor WebCL and WebGL Framework](http://superconductor.github.io/superconductor/)
+* [2d and 3d mixed in the browser with Voodoo.js](http://www.voodoojs.com/)
+* [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
+* [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
+* [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
 
 ### CSS/Design
@@ -173,6 +185,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Scaling Heroku with Unicorn](http://blog.bignerdranch.com/2188-how-to-improve-rails-application-performance-on-heroku/)
 * [Scaling Reddit from Million to Billion](http://www.infoq.com/presentations/scaling-reddit)
 * [1m tps on $5k hardware](http://highscalability.com/blog/2012/9/10/russ-10-ingredient-recipe-for-making-1-million-tps-on-5k-har.html)
+* [Scaling Play to Thousands](http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests)
 
 ### Version Control/Git
 
@@ -215,6 +228,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Dwarf Fortress in 2013 and the 30 year plan](http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1)
 * [400 Years](http://gamejolt.com/games/platformer/400-years/12797/)
 * [Interview and more with Richard Garriot](http://www.polygon.com/2013/3/8/4076734/shroud-of-the-avatar-richard-garriott)
+* [0OD Open Source RTS](http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/)
+* [CandyBox](http://candies.aniwey.net/)
+* [Dreams in the witch house](http://ditwh.herokuapp.com/)
 
 ### Emergent Gameplay
 
@@ -223,7 +239,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [My First MMO experience, UO](http://poisonman.wordpress.com/tag/ultima-online/)
 * [Raph Kosters website, uo](http://www.raphkoster.com/tag/ultima-online/)
 * [Video review of The Realm, early MMORPG](http://www.youtube.com/watch?v=uxdrbhZFGwY)
-* [Can UO be born again?](http://www.youtube.com/watch?v=HWi9dXJxO0M)
+* [Can UO be born again?](http://www.youtube.com/watch?v=HWi9dXJxO0M)* 
 
 ## Startups
 
@@ -241,15 +257,10 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Security
 
-* [How to stay secure against NSA](http://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance)
-* [NSA Foils much encryption-nytimes](http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?_r=0)
 * [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
-* [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
 * [Quantum internet government](http://www.theconnectivist.com/2013/05/declassified-the-governments-quantum-internet/?utm_source=taboola)
-* [Cryptopolcalypse](http://www.slideshare.net/astamos/bh-slides)
 * [Hard drive root after format hack](http://spritesmods.com/?art=hddhack)
-* [NSA collects everything](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 * [Defcon Documentary](http://ascii.textfiles.com/archives/3984?fb_source=pubv1)
 * [Laundry Hacking](http://www.limpkin.fr/index.php?post/2012/04/30/Hacking-a-laundry-machine-in-one-day-%28SLE4442%29)
 * [Hacking Wifi SD cards](http://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
@@ -260,13 +271,26 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Tor - Secure messaging](http://tox.im/)
 * [HTTPS sniffing with Amazon Chrome Plugin](http://blog.kotowicz.net/2013/07/jealous-of-prism-use-amazon-1-button.html)
 * [DarkJPEG](http://n0where.net/darkjpeg/)
-* [When the NSA shows up at your startup](http://www.readability.com/read?url=http%3A//www.buzzfeed.com/justinesharrock/what-is-that-box-when-the-nsa-shows-up-at-your-internet-comp)
-* [Two Factor Auth and SNS](http://dcid.me/notes/2013-apr-19.html)
-* [cjdns- Encryption for regular people](https://github.com/cjdelisle/cjdns)
 * [Project Meshnet](http://projectmeshnet.org/)
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
 * [Use your own VPN](https://www.tinfoilsecurity.com/blog/dont-get-pwned-on-public-wifi-use-your-own-vpn-tutorial-guide-how-to)
 * [Pineapple MIM](http://hakshop.myshopify.com/products/wifi-pineapple)
+
+### Passwords & Encryption
+
+* [A Really Good Article on How Easy it Is to Crack Passwords](http://www.schneier.com/blog/archives/2013/06/a_really_good_a.html)
+* [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
+* [Cryptopolcalypse](http://www.slideshare.net/astamos/bh-slides)
+* [Two Factor Auth and SMS](http://dcid.me/notes/2013-apr-19.html)
+* [cjdns- Encryption for regular people](https://github.com/cjdelisle/cjdns)
+
+### NSA
+
+* [NSA collects everything](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
+* [How to stay secure against NSA](http://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance)
+* [NSA Foils much encryption-nytimes](http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?_r=0)
+* [When the NSA shows up at your startup](http://www.readability.com/read?url=http%3A//www.buzzfeed.com/justinesharrock/what-is-that-box-when-the-nsa-shows-up-at-your-internet-comp)
+
 
 ## Science and general tech
 
@@ -293,6 +317,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Hardware/EE
 
+* [HUD for your car](http://www.wired.com/autopia/2013/09/pioneer-navgate/)
 * [PCB Tests](http://www.justgeek.de/pcb-sample-set/)
 * [rPi Dropbox torrentsync](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
 * [Kinect Sign Language](http://blogs.technet.com/b/inside_microsoft_research/archive/2013/07/16/digital-assistance-for-sign-language-users.aspx)
@@ -301,12 +326,6 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 ## Sound/Audio/Music
 
 * [iPhone sound](http://jacklinstudios.com/docs/making-of-158-marimba.html)
-
-## 3d/Animation
-
-* [Getting started with webgl](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
-* [Pixar Renderman turns 25](http://www.fxguide.com/featured/pixars-renderman-turns-25/)
-* [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
 ### Motorcycles
 * [How an engine works](http://jacoboneal.com/car-engine/)
