@@ -129,6 +129,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Go
 
+* [Iterators in Go](http://ewencp.org/blog/golang-iterators/)
 * [Go after 2 years in production](http://blog.iron.io/2013/08/go-after-2-years-in-production.html?m=1)
 * [Python vs Go. Req per second](http://dustinrcollins.com/post/58656259972/python-vs-go-requests-per-second)
 * [Groupcache- memcached alternative in Go](https://github.com/golang/groupcache#readme)
@@ -178,6 +179,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Deployment & Scaling
 
+* [Know your HTTP well](https://github.com/andreineculau/know-your-http-well)
 * [ElasticCache now supports Redis](http://aws.typepad.com/aws/2013/09/amazon-elasticache-now-with-a-dash-of-redis.html)
 * [Heroku Fork release](https://blog.heroku.com/archives/2013/6/27/heroku-fork)
 * [Puma vs Passenger](https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger)
@@ -227,6 +229,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [Games that teach programming](http://www.gamasutra.com/blogs/RobLockhart/20130905/199667/Games_That_Teach_Programming_A_Brief_Overview.php)
 * [Why I'm not returning to PAX](http://www.wired.com/underwire/2013/09/penny-arcade-expo-dickwolves/)
 * [Gone Home - One of the best games I've played in a few years](http://thefullbrightcompany.com/gonehome/)
 * [Down the VR Rabbit Hole](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
@@ -264,8 +267,12 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Startup founders with accents](http://paulgraham.com/accents.html) and on [HN](https://news.ycombinator.com/item?id=6302276)
 * [English has been my pain...](http://antirez.com/news/61)
 * [Litmus test](http://ninjasandrobots.com/litmus-test/)
+* [I hate funnels](http://tinyletter.com/ben/letters)
+* [Corporate Shuttles and gentrification in SF](http://www.wired.com/opinion/2013/09/mapping-silicon-valleys-corporate-shuttle-problem/?mbid=social11636024#slideid-140291)
 
 ## Security
+* [How spooks break the crypto](http://arstechnica.com/security/2013/09/spooks-break-most-internet-crypto-but-how/)
+* [Replacing weak SSH fingerprint algorithms](http://security.stackexchange.com/questions/23850/replacing-weak-ssh-fingerprint-algorithms)
 * [First few ms of an HTTP connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html?m=1)
 * [How to handle millions of new tor clients](https://blog.torproject.org/blog/how-to-handle-millions-new-tor-clients?)
 * [Brakeman- security scanning for Ruby](http://brakemanscanner.org/)
@@ -296,6 +303,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### NSA
 
+* [I am the other](http://www.popehat.com/2013/09/06/nsa-codebreaking-i-am-the-other/)
 * [Government Face scanning is here](http://www.nytimes.com/2013/08/30/opinion/the-face-scan-arrives.html?_r=1&)
 * [More on NSA cracking](http://www.wired.com/threatlevel/2013/08/black-budget/)
 * [10B spend on government password cracking](http://arstechnica.com/security/2013/08/feds-plow-10-billion-into-groundbreaking-crypto-cracking-program/)
@@ -331,6 +339,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Hardware/EE
 
+* [Raspyfi](http://www.raspyfi.com/)
+* [6502 Made Easy](http://skilldrick.github.io/easy6502/)
+* [Why hardware is hard](http://danluu.github.io/blog/2013/09/07/why-hardware-development-is-hard/)
 * [HUD for your car](http://www.wired.com/autopia/2013/09/pioneer-navgate/)
 * [PCB Tests](http://www.justgeek.de/pcb-sample-set/)
 * [rPi Dropbox torrentsync](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
