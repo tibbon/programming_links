@@ -4,6 +4,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Teaching
 
+* [Grace Hopper on David Letterman](https://www.youtube.com/watch?v=1-vcErOPofQ)
+* [To my daughter's high school programming teacher](https://www.usenix.org/blog/my-daughters-high-school-programming-teacher)
 * [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
 * [Didn't get enough sleep? Might as well be drunk](http://www.forbes.com/sites/kellyclay/2013/09/04/didnt-get-enough-sleep-you-might-as-well-be-drunk/)
 
@@ -111,6 +113,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### CSS/Design
 
+* [Anonymous - Another font for prorammers](http://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Hermit- Font for programmers by programmer](http://pcaro.es/p/hermit)
 * [Arial vs Helvetica](http://arialvshelvetica.com/)
 * [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 * [Procedurally selected colors](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/)
@@ -129,6 +133,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Go
 
+* [Go by example](https://gobyexample.com/)
 * [Iterators in Go](http://ewencp.org/blog/golang-iterators/)
 * [Go after 2 years in production](http://blog.iron.io/2013/08/go-after-2-years-in-production.html?m=1)
 * [Python vs Go. Req per second](http://dustinrcollins.com/post/58656259972/python-vs-go-requests-per-second)
@@ -194,8 +199,13 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Scaling Play to Thousands](http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests)
 * [Introduction to Opsworks](http://artsy.github.io/blog/2013/08/27/introduction-to-aws-opsworks/)
 
+### Unix
+
+* [5 commands](http://spin.atomicobject.com/2013/09/09/5-unix-commands/)
+
 ### Version Control/Git
 
+* [Tips for beginners](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
 * [GitTrap- git based distributed forums](https://github.com/FriendCode/gitrap)
 * [LolCommits](http://mroth.github.io/lolcommits/)
 * [Ungit. Super awesome](https://github.com/FredrikNoren/ungit)
@@ -339,6 +349,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Hardware/EE
 
+* [Frameless Geo Dome to live in](http://rigsomelight.com/2013/09/09/frameless-geodesic-dome.html)
 * [Raspyfi](http://www.raspyfi.com/)
 * [6502 Made Easy](http://skilldrick.github.io/easy6502/)
 * [Why hardware is hard](http://danluu.github.io/blog/2013/09/07/why-hardware-development-is-hard/)
