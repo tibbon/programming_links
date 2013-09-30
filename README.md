@@ -8,10 +8,18 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [To my daughter's high school programming teacher](https://www.usenix.org/blog/my-daughters-high-school-programming-teacher)
 * [Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)
 * [Didn't get enough sleep? Might as well be drunk](http://www.forbes.com/sites/kellyclay/2013/09/04/didnt-get-enough-sleep-you-might-as-well-be-drunk/)
+* [Jarvis's Blog post](http://blog.terriblelabs.com/) 
 
 ## SAAS/PAAS
 
+* [Sudoku as a Service with Julia](http://iaindunning.com/2013/sudoku-as-a-service.html)
+* [Natural Language interface for apps](https://wit.ai/)
 * [Free Email Validation](http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/)
+
+## Books
+
+* [Seven Concurrency Models in Seven Weeks](http://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
+* [Working with Ruby Threads](http://pragprog.com/book/jsthreads/working-with-ruby-threads)
 
 ## Programming Languages
 
@@ -34,6 +42,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Computer Science/Math
 
+* [Design requirements of non-blocking systems](http://queue.acm.org/detail.cfm?id=2513575)
 * [Grace Hopper Wikipedia page](http://en.wikipedia.org/wiki/Grace_Hopper)
 * [Pseudocode solving a problem](http://cmuems.com/2013/a/golan/09/02/melanie-nailed-it/)
 * [What is Algebra](http://profkeithdevlin.org/2011/11/20/what-is-algebra/)
@@ -44,7 +53,11 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Unhappy Truckers and other](http://nautil.us/issue/3/in-transit/unhappy-truckers-and-other-algorithmic-problems)
 
 ### Ruby
-
+* [Better Specs](http://betterspecs.org/)
+* [Ruby to Javascript compiler](http://opalrb.org/)
+* [Kicking the Tires on Ruby 2.1 Preview](http://spin.atomicobject.com/2013/09/26/ruby-2-1-preview/)
+* [Case against Cucumber](http://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html)
+* [Secure Rails presentation](https://speakerdeck.com/joncanady/writing-secure-r-rails-apps)
 * [Human Regex in Ruby](http://krainboltgreene.github.io/hexpress/)
 * [Roll your own Ruby web framework in 30 minutes](http://svs.io/post/59495114366/roll-your-own-web-framework-in-half-an-hour)
 * [Why Ruby Rocks](http://skofo.github.io/blog/why-ruby-rocks/)
@@ -74,6 +87,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### JavaScript
 
+* [Rainy Day.js](https://github.com/maroslaw/rainyday.js)
 * [Trampolines in JavaScript](http://raganwald.com/2013/03/28/trampolines-in-javascript.html?utm_content=bufferdab4c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
 * [Strange Javascript memory leak found with Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html)
 * [Little Lisp Interepter in JS](https://www.hackerschool.com/blog/21-little-lisp-interpreter)
@@ -111,8 +125,11 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [VR Rabbit Hole - Valve](http://blogs.valvesoftware.com/abrash/down-the-vr-rabbit-hole-fixing-judder/)
 
 
-### CSS/Design
+### CSS/Design/HTML
 
+* [Semantic UI](https://coderwall.com/p/ham3gg)
+* [Color Blind Test](http://www.xrite.com/online-color-test-challenge)
+* [Main element](http://html5doctor.com/the-main-element/)
 * [Anonymous - Another font for prorammers](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Hermit- Font for programmers by programmer](http://pcaro.es/p/hermit)
 * [Arial vs Helvetica](http://arialvshelvetica.com/)
@@ -184,6 +201,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Deployment & Scaling
 
+* [WAL-E and Continuous Protection with Heroku Postgres](https://blog.heroku.com/archives/2013/9/26/wal_e_and_continuous_protection_with_heroku_postgres)
 * [Know your HTTP well](https://github.com/andreineculau/know-your-http-well)
 * [ElasticCache now supports Redis](http://aws.typepad.com/aws/2013/09/amazon-elasticache-now-with-a-dash-of-redis.html)
 * [Heroku Fork release](https://blog.heroku.com/archives/2013/6/27/heroku-fork)
@@ -213,6 +231,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Culture/Social
 
+* [Identifying Big artists](http://themetapicture.com/how-to-recognize-the-artists-of-paintings/)
 * [Largest homeless camp in SF](http://www.businessinsider.com/the-jungle-largest-homeless-camp-in-us-2013-8?op=1)
 * [Man on a Desert Island](http://www.newrepublic.com/article/114549/dave-glasheen-lost-boy-restoration-island)
 * [Interactive map of NYC vs 1800s](http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html)
@@ -239,6 +258,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [Sonic for 2600](http://1morecastle.com/2013/09/the-homebrew-corner-sonic-the-hedgehog-for-the-atari-2600/)
 * [Games that teach programming](http://www.gamasutra.com/blogs/RobLockhart/20130905/199667/Games_That_Teach_Programming_A_Brief_Overview.php)
 * [Why I'm not returning to PAX](http://www.wired.com/underwire/2013/09/penny-arcade-expo-dickwolves/)
 * [Gone Home - One of the best games I've played in a few years](http://thefullbrightcompany.com/gonehome/)
@@ -252,6 +272,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [0OD Open Source RTS](http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/)
 * [CandyBox](http://candies.aniwey.net/)
 * [Dreams in the witch house](http://ditwh.herokuapp.com/)
+* [How to make VR players feel sick](http://ispr.info/2013/09/17/how-to-make-players-sick-in-your-virtual-reality-game/)
 
 ### Emergent Gameplay
 
@@ -264,6 +285,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Startups
 
+* [Google's in depth history](http://www.google.com/about/company/history/)
+* [How to raise money](http://paulgraham.com/fr.html)
 * [Setting salaries by voting](http://figure53.com/notes/2013-08-30-we-just-set-our-salaries/)
 * [Questhub- Share your quests](http://questhub.io/welcome)
 * [Amazon's Warehouse building spree](http://www.bloomberg.com/news/2013-08-20/amazon-ramps-up-13-9-billion-warehouse-building-spree.html)
@@ -281,6 +304,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Corporate Shuttles and gentrification in SF](http://www.wired.com/opinion/2013/09/mapping-silicon-valleys-corporate-shuttle-problem/?mbid=social11636024#slideid-140291)
 
 ## Security
+* [Google knows all the wifi passwords](http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world)
+* [EZ Pass Read Everywhere around NYC](http://www.forbes.com/sites/kashmirhill/2013/09/12/e-zpasses-get-read-all-over-new-york-not-just-at-toll-booths/)
 * [How spooks break the crypto](http://arstechnica.com/security/2013/09/spooks-break-most-internet-crypto-but-how/)
 * [Replacing weak SSH fingerprint algorithms](http://security.stackexchange.com/questions/23850/replacing-weak-ssh-fingerprint-algorithms)
 * [First few ms of an HTTP connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html?m=1)
@@ -305,6 +330,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Passwords & Encryption
 
+* [SSLHTTPS best practices](https://www.ssllabs.com/downloads/SSL_TLS_Deployment_Best_Practices_1.3.pdf)
+* [Switch to HTTPS for free](https://konklone.com/post/switch-to-https-now-for-free?hn)
+* [Ngnok tunnels](http://inconshreveable.com/09-25-2013/ngrok-tunnels-better-faster-stronger/)
 * [A Really Good Article on How Easy it Is to Crack Passwords](http://www.schneier.com/blog/archives/2013/06/a_really_good_a.html)
 * [Anatomy of a Hack- password cracking](http://www.wired.co.uk/news/archive/2013-05/28/password-cracking/viewall)
 * [Cryptopolcalypse](http://www.slideshare.net/astamos/bh-slides)
@@ -313,6 +341,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### NSA
 
+* [New York Times provides new details about NSA backdoor in crypto spec](http://arstechnica.com/security/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/)
 * [I am the other](http://www.popehat.com/2013/09/06/nsa-codebreaking-i-am-the-other/)
 * [Government Face scanning is here](http://www.nytimes.com/2013/08/30/opinion/the-face-scan-arrives.html?_r=1&)
 * [More on NSA cracking](http://www.wired.com/threatlevel/2013/08/black-budget/)
@@ -325,6 +354,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Science and general tech
 
+* [Rick Ross and Crack](http://www.esquire.com/print-this/rick-ross-drug-dealer-interview-1013?page=all)
+* [I was a hipster, then it got worse](http://www.theawl.com/2013/09/i-was-a-hated-hipster-meme-and-then-it-got-worse)
+* [Drug addiction: The complex truth](http://mindhacks.com/2013/09/13/drug-addiction-the-complex-truth/)
 * [Movie Making for everyone- plotagon](https://plotagon.com/)
 * [New form of Carbon stronger than Graphene and Diamond](http://www.technologyreview.com/view/518301/new-form-of-carbon-is-stronger-than-graphene-and-diamond/)
 * [Web Server in one line of Bash](http://www.razvantudorica.com/08/web-server-in-one-line-of-bash/)
@@ -364,6 +396,11 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [iPhone sound](http://jacklinstudios.com/docs/making-of-158-marimba.html)
 
 ### Motorcycles
+* [Vintage Honda parts dealer in Ohio](http://www.ohiocycle.com/)
+* [TL125 restoration](http://www.advrider.com/forums/showthread.php?t=418053)
+* [Honda Single Troubleshooting Thread](http://www.advrider.com/forums/showthread.php?t=424841)
+* [CL125S thread](http://www.advrider.com/forums/showthread.php?t=651535)
+* [Drum to Disk on Honda motorcycles](http://www.instructables.com/id/Convert-your-Honda-wheel-to-a-disc-brake/)
 * [How an engine works](http://jacoboneal.com/car-engine/)
 * [Motorcycle Bicycle](http://www.greyp-bikes.com/)
 * [R1200R Scrambler](http://www.bikeexif.com/bmw-r1200r)
