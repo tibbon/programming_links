@@ -26,6 +26,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Programming Languages
 
+* [Facebook code from 2007 fork](https://gist.github.com/tibbon/7173025)
 * [Ultimate VIM Bundle. Thanks dhchoi for the tip](http://vim.spf13.com/)
 * [Using GNU-stow to manage dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * [Light Table. New IDE for awesome](http://www.lighttable.com/)
@@ -62,6 +63,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 
 ### Ruby
+* [Metaprogramming to make code habitable](http://www.saturnflyer.com/blog/jim/2013/10/23/easy-metaprogramming-for-making-your-code-habitable/)
+* [Secure inputs](http://blog.rkcudjoe.com/confident-ruby-inputs)
 * [Better Specs](http://betterspecs.org/)
 * [Ruby to Javascript compiler](http://opalrb.org/)
 * [Kicking the Tires on Ruby 2.1 Preview](http://spin.atomicobject.com/2013/09/26/ruby-2-1-preview/)
@@ -85,6 +88,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 #### Rails
 
+* [Modeling your apps user session](https://github.com/blog/1661-modeling-your-app-s-user-session)
+* [env config rails](http://blog.broadstack.com/envconfig-ruby-rails-configuration.html)
+* [Advanced Rails model generators](http://railsguides.net/2013/06/29/advanced-rails-model-generators/)
 * [Digging Into Rails 4](http://net.tutsplus.com/tutorials/ruby/digging-into-rails-4/)
 * [Rails to Launch in 7 days](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
 * [Reading Ruby Source to Understand Rails idiosyncracies](http://pivotallabs.com/reading-the-ruby-source/)
@@ -93,8 +99,14 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [State Machines and Rails](http://gistflow.com/posts/679-state-machine-with-rails-basics)
 * [Tagging in Rails 4 using Postgres Arrays](http://rny.io/rails/postgresql/2013/07/28/tagging-in-rails-4-using-postgresql-arrays.html)
 
+### Objective C
+* [Doing the impossible in the iOS Mail client](http://engineering.linkedin.com/mobile/linkedin-intro-doing-impossible-ios)
+
+
 ### JavaScript
 
+* [Oboe JS. Make ajax faster](https://github.com/jimhigson/oboe.js/blob/master/README.md)
+* [Together.js](https://hacks.mozilla.org/2013/10/introducing-togetherjs/)
 * [Canvas + JS is crazy](http://zoomquilt.org/)
 * [Reuters D3 awesome](http://datagoldminer.com/innovators-thomson-reuters/)
 * [big list of D3 examples](http://christopheviau.com/d3list/)
@@ -192,9 +204,13 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
 * [Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
 * [Automatic SIMD from Haskell](https://news.ycombinator.com/item?id=6100967)
+* [Learn Haskell Fast/Hard hn discussion](https://news.ycombinator.com/item?id=6584043)
+* [Learn Haskell Fast/Hard interactive](https://www.fpcomplete.com/school/haskell-fast-hard)
 
 ### Python
 
+* [How to lose 172222/second](http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172-222-a-second-for-45-minutes)
+* [So you'd like to make a map using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html)
 * [Functinional Python made easy](http://hackflow.com/blog/2013/10/13/functional-python-made-easy/)
 * [What does Ruby have that Python doesnt](http://stackoverflow.com/questions/1113611/what-does-ruby-have-that-python-doesnt-and-vice-versa?rq=1)
 * [Map Vectorizer](https://github.com/NYPL/map-vectorizer)
@@ -202,6 +218,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Databases
 
+* [Rapid Schema development for Postgres](https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql)
 * [Five Database planning mistakes](http://thomaslarock.com/2012/01/do-you-make-these-5-database-design-mistakes/)
 * [Postgres 9.3 JSON functions](http://www.postgresql.org/docs/9.3/static/functions-json.html)
 * [Postgres 9.3 Heroku Beta](https://postgres.heroku.com/blog/past/2013/5/15/postgres_93_beta_access/)
@@ -215,6 +232,8 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Deployment & Scaling
 
+* [Getting the most part out of Haproxy](https://www.twilio.com/engineering/2013/10/16/haproxy)
+* [Unleash Puma on Heroku](http://blog.codeship.io/2013/10/16/unleash-the-puma-on-heroku.html)
 * [AMD and super low powered chips](http://www.wired.com/wiredenterprise/2013/10/seamicro-amd-verizon/)
 * [Heroku Websockets](https://blog.heroku.com/archives/2013/10/8/websockets-public-beta)
 * [Using HTTP Verbs properly](http://micheltriana.com/2013/09/30/http-verbs-in-a-rest-web-api/)
@@ -234,6 +253,12 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Scaling Play to Thousands](http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests)
 * [Introduction to Opsworks](http://artsy.github.io/blog/2013/08/27/introduction-to-aws-opsworks/)
 
+### Concurrency
+
+* [Concurrency is not parallelisim. Rob Pike](http://vimeo.com/49718712)
+* [Communicating Sequential Processes wiki](http://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* [Communicating Sequential Processes PDF](http://www.usingcsp.com/cspbook.pdf)
+
 ### Unix
 
 * [Unix tips and tricks](http://www.onextrapixel.com/2013/10/09/unix-tips-tricks-to-save-you-time-in-terminal/)
@@ -241,6 +266,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ### Version Control/Git
 
+* [Github Glossary](https://help.github.com/articles/github-glossary)
 * [Git Flow Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 * [Tips for beginners](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
 * [GitTrap- git based distributed forums](https://github.com/FriendCode/gitrap)
@@ -250,6 +276,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Culture/Social
 
+* [The Fireplay Delusion](http://m.samharris.org/blog/item/the-fireplace-delusion)
 * [Ted talks are lying to you](http://www.salon.com/2013/10/13/ted_talks_are_lying_to_you/)
 * [Young, Rich and Homeless](https://medium.com/better-humans/6620882dde89)
 * [Hackers Guide to SF](http://islandofatlas.net/2013/10/04/a-hackers-guide-to-the-bay-area.html)
@@ -281,6 +308,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Gaming
 
+* [You don't need millions of dollars](http://www.codinghorror.com/blog/2013/10/you-dont-need-millions-of-dollars.html)
+* [What the console dies, what happens next?](http://www.slideshare.net/bcousins/when-the-consoles-die-what-comes-next)
+* [JS HTML tiling game stuff](http://stackoverflow.com/questions/8901987/map-tiling-algorithm)
 * [Dwarf Fortress a Marxist Analysis](http://mccaine.org/2013/10/09/dwarf-fortress-a-marxist-analysis/)
 * [Timothy Leary Video Game](http://artsbeat.blogs.nytimes.com/2013/09/27/timothy-leary-video-games-unearthed-in-archive/?smid=tw-nytimes&_r=3&&gwh=F5A6A7C33D3DA652E630B3D650EF2AC0)
 * [Sonic for 2600](http://1morecastle.com/2013/09/the-homebrew-corner-sonic-the-hedgehog-for-the-atari-2600/)
@@ -331,6 +361,9 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Corporate Shuttles and gentrification in SF](http://www.wired.com/opinion/2013/09/mapping-silicon-valleys-corporate-shuttle-problem/?mbid=social11636024#slideid-140291)
 
 ## Security
+* [Netgear router compromises](http://shadow-file.blogspot.com/2013/10/complete-persistent-compromise-of.html?m=1)
+* [Alcohol on flights](http://imatravelninja.com/2012/05/16/take-alcohol-to-drink-on-your-flight/)
+* [Illegal prime numbers](https://en.wikipedia.org/wiki/Illegal_prime)
 * [Google knows all the wifi passwords](http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world)
 * [EZ Pass Read Everywhere around NYC](http://www.forbes.com/sites/kashmirhill/2013/09/12/e-zpasses-get-read-all-over-new-york-not-just-at-toll-booths/)
 * [How spooks break the crypto](http://arstechnica.com/security/2013/09/spooks-break-most-internet-crypto-but-how/)
@@ -354,6 +387,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Visualization of phone metadata](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
 * [Use your own VPN](https://www.tinfoilsecurity.com/blog/dont-get-pwned-on-public-wifi-use-your-own-vpn-tutorial-guide-how-to)
 * [Pineapple MIM](http://hakshop.myshopify.com/products/wifi-pineapple)
+* [Money Laundering techiniques online](http://arxiv.org/pdf/1310.2368v1.pdf)
 
 ### Passwords & Encryption
 
@@ -388,6 +422,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Science and general tech
 
+* [The Ocean is Broken](http://www.theherald.com.au/story/1848433/the-ocean-is-broken/)
 * [Data so big it needs new maths](http://www.wired.com/wiredscience/2013/10/topology-data-sets/)
 * [Mozilla AppMaker](http://appmaker.mozillalabs.com/designer)
 * [Rick Ross and Crack](http://www.esquire.com/print-this/rick-ross-drug-dealer-interview-1013?page=all)
@@ -416,6 +451,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [Paper on lack of Tor anonymity](http://www.ohmygodel.com/publications/usersrouted-ccs13.pdf)
 
 ## Hardware/EE
+* [What happened to 3rd Ward?](http://observer.com/2013/10/what-happened-to-3rd-ward/)
 * [Displaying Realtime Github Activity on a Full Color LED Matrix](http://jack.minardi.org/projects/displaying-realtime-github-activity-on-a-full-color-led-matrix/)
 * [Smartphone for 30/month](http://www.wired.com/gadgetlab/2013/10/the-tech-block-cheap-data-plan/)
 * [What the Kickstarter Hangover will do to the 3D Printing Industry](http://jasonevanish.com/2013/10/08/what-the-kickstarter-hangover-will-do-to-the-3d-printing-industry/)
@@ -438,6 +474,7 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 * [iPhone sound](http://jacklinstudios.com/docs/making-of-158-marimba.html)
 
 ### Motorcycles
+* [CL125S no power on acceleration](http://www.fireblades.org/forums/general-discussion/98581-1980-cb125s-no-power-acceleration-stalling-help.html)
 * [Old motorcycle tuning tips](http://www.ehow.com/list_7455934_honda-cb175-motorcycle-tuneup-specs.html)
 * [R80S Trial](http://www.wired.com/autopia/2013/10/custom-bikes-2013/?cid=12674794#slideid-94591)
 * [Vintage Honda parts dealer in Ohio](http://www.ohiocycle.com/)
@@ -452,4 +489,6 @@ I don't like using Chrome bookmarks. Other services for bookmarking don't really
 
 ## Bitcoin
 
+- [Autonomous Companies powered by BTC](http://btcgeek.com/dawn-of-autonomous-corporations/)
+- [Bitcoin Escrow system](http://goshakkk.name/meklebar/)
 - [Futureblock betting](http://www.futureblock.com/)
